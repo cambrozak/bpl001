@@ -20,7 +20,7 @@ Kim Day day@plsinfo.org, Carlos Ambrozak carlos.ambrozak@gmail.com
 
 ####Website
 
-https://github.com/cambrozak/bp001
+https://github.com/cambrozak/bpl001
 
 ##Course Description
 
