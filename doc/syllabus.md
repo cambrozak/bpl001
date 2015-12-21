@@ -146,7 +146,7 @@ to the pan-tilt mechanism and writing programs to react to different image patte
 **Exercise:**  Give robot a name.  Edit, compile and load a program, LCD and Audio output.  Saving code in GitHub.
 
 
-**Session Two:** Programming I**<br>
+**Session Two:** Programming I<br>
 **Exercise:** Move the Robot, Edge Detection, Program motor control using libraries & APIs.<br>
 **Lecture:** Expressions, Syntax, Variables, if/then, loops<br>
 **Exercise:** Turn the Robot, Speed control, orientation with the gyro and compass, move in a pattern.
