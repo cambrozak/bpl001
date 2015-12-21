@@ -142,43 +142,51 @@ to the pan-tilt mechanism and writing programs to react to different image patte
 
 ##Schedule
 
-**Session One:** Introductions and Class Orientation<br>
-**Lecture:**  What's a Robot?  Hi-Tech Learning<br>
-**Exercise:**  Give robot a name.  Edit, compile and load a program, LCD and Audio output.  Saving code in GitHub.
+###_Session One: Introductions, Orientation, First Program_
 
-**Session Two:** Programming I<br>
+**Lecture:**  What's a Robot?  Hi-Tech Learning<br>
+**Exercise:**  Give the Robot a name.  Edit, compile and load a program, LCD and Audio output.  Save code in GitHub.
+
+###_Session Two: Programming, Orientation, Motors_
+
 **Exercise:** Move the Robot, Edge Detection, Program motor control using libraries & APIs.<br>
 **Lecture:** Expressions, Syntax, Variables, if/then, loops<br>
 **Exercise:** Turn the Robot, Speed control, orientation with the gyro and compass, move in a pattern.
 
-**Session Three:** Programming II<br>
+###_Session Three: Programming, Debugging, Line Following_
+
 **Exercise:** Line following.  Program processing of IR LED/Phototransistor inputs.<br>
 **Lecture:** Scope, Functions, High Level vs. Low Level Languages, The Art of Debugging<br>
 **Exercise:** Step-Thru Debugging with Simulator for Arduino
 
-**Session Four:** Circuits<br>
+###_Session Four: Electricity, Circuits_
+
 **Exercise:** Build a Battery from scratch, light an LED, measure Current, Voltage and Resistance with a Multimeter<br>
 **Lecture:** Electricity in 30min: Electrons, Current, Voltage, Resistance, Series, Parallel, Ground<br>
 **Exercise:** Build a Reference Circuit using a battery, LED, Switch and Ground.  Debug the three types of circuit failures: Short Circuits, Grounded Circuits, Open Circuits 
 
-**Session Five:** Roaming<br>
+###_Session Five: Roaming_
+
 **Exercise:**  Detect collisions with accelerometer, Detect objects in space with proximity sensors.<br>
 **Lecture:**  Why Accelerometers and proximity sensors work.<br>
 **Exercise:** Advanced Roaming, navigating terrain, avoiding moving obstacles.
 
-**Session Six:** Servo Mechanical Control<br>
+###_Session Six: Servo Mechanical Control_
+
 **Exercise:** Attach Pan-Tilt servo arm to the Robot<br>
 **Lecture:** Servo safety, how servos work<br>
 **Exercise:** Point the servo arm at detected objects
 
-**Session Seven:** Pattern Recognition<br>
+###_Session Seven: Pattern Recognition_
+
 **Exercise:** Attach Pixy CMUcam5 image sensor to servo arm<br>
 **Lecture:** Image Sensors and Pattern Recognition<br>
 **Exercise:**  Program robot for follow/flight when it recognizes certain image patterns.
 
-**Session Eight:** Open Lab<br>
-**Exercise:** TBD<br>
-**Lecture:** TBD<br>
+###_Session Eight: Open Lab_
+
+**Exercise:** TBD
+**Lecture:** TBD
 **Exercise:** TBD
 
 ##Equipment
@@ -210,5 +218,4 @@ Purdum, Jack J. *Beginning C for Arduino* New York: Apress, 2012. Print.
 
 ## License & Copyright
 
-*BPL001 Introduction to Robotics* by [Carlos Ambrozak](http://bpl001.ambrozak.com)
-is licensed under a [Creative Commons Attribution 4.0 International License](http://creativecommons.org/licenses/by/4.0/).
+*BPL001 Introduction to Robotics by Carlos Ambrozak* is licensed under a [Creative Commons Attribution 4.0 International License](http://creativecommons.org/licenses/by/4.0/).
