@@ -181,7 +181,7 @@ by combining the first lab with previous learning.
 
 **Exercise:** Attach Pixy CMUcam5 image sensor to servo arm<br>
 **Lecture:** Image Sensors and Pattern Recognition<br>
-**Exercise:**  Program robot for follow/flight when it recognizes certain image patterns.
+**Exercise:**  Program robot to follow or flee when it recognizes certain image patterns.
 
 ###_Session Eight: Open Lab_
 
