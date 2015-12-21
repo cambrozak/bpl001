@@ -162,7 +162,7 @@ by combining the first lab with previous learning.
 ###_Session Four: Electricity, Circuits_
 
 **Exercise:** Build a Battery from scratch, light an LED, measure Current, Voltage and Resistance with a Multimeter<br>
-**Lecture:** Electricity in 30min: Electrons, Current, Voltage, Resistance, Series, Parallel, Ground<br>
+**Lecture:** Intro to Electricity: Electrons, Current, Voltage, Resistance, Series, Parallel, Ground<br>
 **Exercise:** Build a Reference Circuit using a battery, LED, Switch and Ground.  Debug the three types of circuit failures: Short Circuits, Grounded Circuits, Open Circuits 
 
 ###_Session Five: Roaming_
