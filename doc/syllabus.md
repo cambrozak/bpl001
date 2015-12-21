@@ -1,6 +1,7 @@
 #BPLROB 001:  Introduction to Robotics
 
 > Instructor Carlos Ambrozak
+
 > Spring 2016
 
 ##General Information
