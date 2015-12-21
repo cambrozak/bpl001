@@ -113,7 +113,7 @@ Add cells to the homeade battery in Parallel and Series configurations, probe wi
 to observe and understand how these arrangements affect Voltage and Current.
 
 Construct a Reference Circuit on a breadboard composed of 
-a battery, fuse, control switch, an LED and Common Ground to explore and understand
+a battery, fuse, control switch, an LED a Resistor and Common Ground to explore and understand
 how to troubleshoot the three types of circuit problems:
 Short Circuits, Grounded Circuits and Open Circuits
 
