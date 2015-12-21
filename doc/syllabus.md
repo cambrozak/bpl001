@@ -1,22 +1,25 @@
 #BPLROB 001:  Introduction to Robotics
->Instructor Carlos Ambrozak
 
+> Instructor Carlos Ambrozak
 > Spring 2016
 
 ##General Information
 
 ####Class Time
+
 Monday 4-530PM
 
 ####Classroom Location 
+
 Main Library Tech Lab, 480 Primrose Rd.  Burlingame, CA 94010
 
 ####Contact Info
+
 Kim Day day@plsinfo.org, Carlos Ambrozak carlos.ambrozak@gmail.com
 
 ####Website
-https://github.com/cambrozak/bp001
 
+https://github.com/cambrozak/bp001
 
 ##Course Description
 
@@ -69,13 +72,11 @@ The lecture also connects the lab exercise to examples in the real world.
 A final lab exercise challenges the students to implement their own original ideas
 by combining the first lab with previous learning.
 
-
 ##Class Rules
 
 1. Respect each other.
 2. Respect the lab.
 3. Respect the equipment.
-
 
 ##Objectives and Outcomes
 
@@ -138,13 +139,11 @@ proximity sensors.
 Provide the robot with the sense of sight by attaching an image sensor
 to the pan-tilt mechanism and writing programs to react to different image patterns.
 
-
-###Schedule
+##Schedule
 
 **Session One:** Introductions and Class Orientation<br>
 **Lecture:**  What's a Robot?  Hi-Tech Learning<br>
 **Exercise:**  Give robot a name.  Edit, compile and load a program, LCD and Audio output.  Saving code in GitHub.
-
 
 **Session Two:** Programming I<br>
 **Exercise:** Move the Robot, Edge Detection, Program motor control using libraries & APIs.<br>
@@ -159,14 +158,12 @@ to the pan-tilt mechanism and writing programs to react to different image patte
 **Session Four:** Circuits<br>
 **Exercise:** Build a Battery from scratch, light an LED, measure Current, Voltage and Resistance with a Multimeter<br>
 **Lecture:** Electricity in 30min: Electrons, Current, Voltage, Resistance, Series, Parallel, Ground<br>
-**Exercise:** Build a Reference Circuit using a battery, LED, Switch and Ground.<br>
-Debug the three types of circuit failures: Short Circuits, Grounded Circuits, Open Circuits 
+**Exercise:** Build a Reference Circuit using a battery, LED, Switch and Ground.  Debug the three types of circuit failures: Short Circuits, Grounded Circuits, Open Circuits 
 
 **Session Five:** Roaming<br>
 **Exercise:**  Detect collisions with accelerometer, Detect objects in space with proximity sensors.<br>
 **Lecture:**  Why Accelerometers and proximity sensors work.<br>
 **Exercise:** Advanced Roaming, navigating terrain, avoiding moving obstacles.
-
 
 **Session Six:** Servo Mechanical Control<br>
 **Exercise:** Attach Pan-Tilt servo arm to the Robot<br>
@@ -183,17 +180,21 @@ Debug the three types of circuit failures: Short Circuits, Grounded Circuits, Op
 **Lecture:** TBD<br>
 **Exercise:** TBD
 
-
-###Equipment
+##Equipment
 
 All equipment is kept in the lab at all times.
 
 ####Laptop
+
+* Dell, Windows 10
+
 ####Software
+
 * [Arduino IDE](https://www.arduino.cc/en/Main/Software)
 * [Simulator for Arduino](http://www.virtronics.com.au/Simulator-for-Arduino.html)
 
 ####Hardware
+
 * [Zumo 32U4](https://www.pololu.com/product/3126/resources)
 * [Mini Pan-Tilt Arm and Micro Servos](https://www.adafruit.com/products/1967)
 * [Pixy CMUcam5 Sensor](https://www.adafruit.com/products/1906) 
@@ -206,7 +207,7 @@ Purdum, Jack J. *Beginning C for Arduino* New York: Apress, 2012. Print.
 
 [Arduino](https://www.arduino.cc/)
 
-
 ##### License & Copyright
-![Creative Commons Lcense](https://i.creativecommons.org/l/by/4.0/80x15.png) *BPL001 Introduction to Robotics* by [Carlos Ambrozak](http://bpl001.ambrozak.com)
-is licensed under a [Creative Commons Attribution 4.0 International License](http://creativecommons.org/licenses/by/4.0/).
+
+<sup><sub>*BPL001 Introduction to Robotics* by [Carlos Ambrozak](http://bpl001.ambrozak.com)
+is licensed under a [Creative Commons Attribution 4.0 International License](http://creativecommons.org/licenses/by/4.0/).<sup><sub>
