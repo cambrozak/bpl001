@@ -147,11 +147,11 @@ by combining the first lab with previous learning.
 **Lecture:**  What's a Robot?  Hi-Tech Learning<br>
 **Exercise:**  Give the Robot a name.  Edit, compile and load a program, LCD and Audio output.  Save code in GitHub.
 
-###_Session Two: Programming, Orientation, Motors_
+###_Session Two: Programming, Positioning, Motors_
 
 **Exercise:** Move the Robot, Edge Detection, Program motor control using libraries & APIs.<br>
 **Lecture:** Expressions, Syntax, Variables, if/then, loops<br>
-**Exercise:** Turn the Robot, Speed control, orientation with the gyro and compass, move in a pattern.
+**Exercise:** Turn the Robot, Speed control, positioning with the gyro and compass.
 
 ###_Session Three: Programming, Debugging, Line Following_
 
