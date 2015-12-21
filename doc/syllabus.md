@@ -1,19 +1,24 @@
-BPLROB 001:  Introduction to Robotics
-Carlos Ambrozak
-Spring 2016
+#BPLROB 001:  Introduction to Robotics
+>Instructor Carlos Ambrozak
 
-General Information
+> Spring 2016
 
-Class Time:  Monday 4-530PM
+###General Information
 
-Classroom: Main Library Tech Lab
+####Class Time
+Monday 4-530PM
 
-Contact: Kim Day day@plsinfo.org, Carlos Ambrozak carlos.ambrozak@gmail.com
+####Classroom Location 
+Main Library Tech Lab<br>
+480 Primrose Rd.  Burlingame, CA 94010
 
-Website: https://github.com/cambrozak/bp001
+####Contact Info
+Kim Day day@plsinfo.org, Carlos Ambrozak carlos.ambrozak@gmail.com
 
+####Website
+https://github.com/cambrozak/bp001
 
-Teaching and Learning Style
+###Teaching and Learning Style
 
 The primary objective of this course is
 to inspire middle school students to take an interest in Robotics
@@ -39,7 +44,7 @@ A final lab exercise challenges the students to implement their own original ide
 by combiniong the first lab with previous learnings to date.
 
 
-Course Description
+###Course Description
 
 The field of Robotics is at a fascinating and exciting point in its evolution.
 Robots are no longer confined to the realms of industry and research,
@@ -61,19 +66,19 @@ Short lectures connect the laboratory exercises
 to current state of the art happenings across the field of Robotics and beyond.
 
 
-Prerequisites
+###Prerequisites
 
 None!  This class is for motivated beginners.
 
 
-Class Rules
+###Class Rules
 
-Respect each other.
-Respect the lab.
-Respect the equipment.
+1. Respect each other.
+2. Respect the lab.
+3. Respect the equipment.
 
 
-Objectives and Outcomes
+###Objectives and Outcomes
 
 Students and Instructor will...
 
@@ -161,88 +166,75 @@ Provide the robot with the sense of sight by attaching an image sensor
 to the pan-tilt mechanism and writing programs to react to different image patterns.
 
 
-Schedule
+###Schedule
 
-Session One: Introductions and Class Orientation
-Lecture:  What's a Robot?  Hi-Tech Learning
-Exercise:  Give robot a name.  Edit, compile and load a program, LCD and Audio output.  Saving code in GitHub.
-
-
-Session Two: Programming I
-Exercise: Move the Robot, Edge Detection, Program motor control using libraries & APIs.
-Lecture: Expressions, Syntax, Variables, if/then, loops
-Exercise: Turn the Robot, Speed control, orientation with the gyro and compass, move in a pattern.
+**Session One:** Introductions and Class Orientation<br>
+**Lecture:**  What's a Robot?  Hi-Tech Learning<br>
+**Exercise:**  Give robot a name.  Edit, compile and load a program, LCD and Audio output.  Saving code in GitHub.
 
 
-Session Three: Programming II
-Exercise: Line following.  Program processing of IR LED/Phototransistor inputs.
-Lecture: Scope, Functions, High Level vs. Low Level Languages, The Art of Debugging
-Exercise: Step-Thru Debugging with Simulator for Arduino
-
-Session Four: Circuits
-Exercise: Build a Battery from scratch, light an LED, measure Current, Voltage and Resistance with a Multimeter
-Lecture: Electricity in 30min: Electrons, Current, Voltage, Resistance, Series, Parallel, Ground
-Exercise: Build a Reference Circuit using a battery, LED, Switch and Ground.
-          Debug the three types of circuit failures: Short Circuits, Grounded Circuits, Open Circuits 
-
-Session Five: Roaming
-Exercise:  Detect collisions with accelerometer, Detect objects in space with proximity sensors.
-Lecture:  Why Accelerometers and proximity sensors work.
-Exercise: Advanced Roaming, navigating terrain, avoiding moving obstacles.
+**Session Two: Programming I**<br>
+**Exercise: Move the Robot, Edge Detection, Program motor control using libraries & APIs.<br>
+**Lecture: Expressions, Syntax, Variables, if/then, loops<br>
+**Exercise: Turn the Robot, Speed control, orientation with the gyro and compass, move in a pattern.
 
 
-Session Six: Servo Mechanical Control
-Exercise: Attach Pan-Tilt servo arm to the Robot
-Lecture: Servo safety, how to servos work
-Exercise: Point the servo arm at detected objects
+**Session Three: Programming II<br>
+**Exercise: Line following.  Program processing of IR LED/Phototransistor inputs.<br>
+**Lecture: Scope, Functions, High Level vs. Low Level Languages, The Art of Debugging<br>
+**Exercise: Step-Thru Debugging with Simulator for Arduino
 
-Session Seven: Pattern Recognition
-Exercise: Attach Pixy CMUcam5 image sensor to servo arm
-Lecture: Image Sensors and Pattern Recognition
-Exercise:  Program robot for follow/flight when it recognizes certain image patterns.
+**Session Four: Circuits<br>
+**Exercise: Build a Battery from scratch, light an LED, measure Current, Voltage and Resistance with a Multimeter<br>
+**Lecture: Electricity in 30min: Electrons, Current, Voltage, Resistance, Series, Parallel, Ground<br>
+**Exercise: Build a Reference Circuit using a battery, LED, Switch and Ground.<br>
+Debug the three types of circuit failures: Short Circuits, Grounded Circuits, Open Circuits 
 
-Session Eight: Open Session
-Exercise: TBD
-Lecture: TBD
-Exercise: TBD
+**Session Five: Roaming<br>
+**Exercise:  Detect collisions with accelerometer, Detect objects in space with proximity sensors.<br>
+**Lecture:  Why Accelerometers and proximity sensors work.<br>
+**Exercise: Advanced Roaming, navigating terrain, avoiding moving obstacles.
 
 
-Equipment
+**Session Six: Servo Mechanical Control<br>
+**Exercise: Attach Pan-Tilt servo arm to the Robot<br>
+**Lecture: Servo safety, how to servos work<br>
+**Exercise: Point the servo arm at detected objects
+
+**Session Seven: Pattern Recognition<br>
+**Exercise: Attach Pixy CMUcam5 image sensor to servo arm<br>
+**Lecture: Image Sensors and Pattern Recognition<br>
+**Exercise:  Program robot for follow/flight when it recognizes certain image patterns.
+
+**Session Eight:** Open Lab<br>
+**Exercise:** TBD<br>
+**Lecture:** TBD<br>
+**Exercise:** TBD
+
+
+###Equipment
 
 All equipment is kept in the lab at all times.
 
-Laptop
-Software
-  Arduino IDE https://www.arduino.cc/en/Main/Software
-  Simulator for Arduino http://www.virtronics.com.au/Simulator-for-Arduino.html
-Hardware
-  Zumo 32U4
-  Mini Pan-Tilt Arm and Micro Servos
-  Pixy CMUcam5 Sensor 
-  
+####Laptop
+####Software
+* [Arduino IDE](https://www.arduino.cc/en/Main/Software)
+* [Simulator for Arduino](http://www.virtronics.com.au/Simulator-for-Arduino.html)
 
-Text and Reference Material
+####Hardware
+[Zumo 32U4](https://www.pololu.com/product/3126/resources)
+[Mini Pan-Tilt Arm and Micro Servos](https://www.adafruit.com/products/1967)
+[Pixy CMUcam5 Sensor](https://www.adafruit.com/products/1906) 
+
+###Text and Reference Material
 
 Purdum, Jack J. *Beginning C for Arduino* New York: Apress, 2012. Print.
 
-Zumo 32U4
-https://www.pololu.com/product/3126/resources
+Atmel ATmega32U4(http://www.atmel.com/devices/atmega32u4.aspx)
 
-Mini Pan-Tilt Arm and Micro Servos
-https://www.adafruit.com/products/1967
-
-Pixy CMUcam5 Sensor 
-https://www.adafruit.com/products/1906
-
-Atmel ATmega32U4 Data Sheets
-http://www.atmel.com/devices/atmega32u4.aspx
-
-Arduino
-https://www.arduino.cc/
+[Arduino](https://www.arduino.cc/)
 
 
-
-## License & Copyright
+##### License & Copyright
 ![Creative Commons Lcense](https://i.creativecommons.org/l/by/4.0/80x15.png) *BPL001 Introduction to Robotics* by [Carlos Ambrozak](http://bpl001.ambrozak.com)
 is licensed under a [Creative Commons Attribution 4.0 International License](http://creativecommons.org/licenses/by/4.0/).
-
