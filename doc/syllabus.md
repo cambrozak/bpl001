@@ -208,7 +208,7 @@ All equipment is kept in the lab at all times.
 * [Mini Pan-Tilt Arm and Micro Servos](https://www.adafruit.com/products/1967)
 * [Pixy CMUcam5 Sensor](https://www.adafruit.com/products/1906) 
 
-###Text and Reference Material
+##Text and Reference Material
 
 Purdum, Jack J. *Beginning C for Arduino* New York: Apress, 2012. Print.
 
