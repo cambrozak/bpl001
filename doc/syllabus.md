@@ -173,38 +173,37 @@ to the pan-tilt mechanism and writing programs to react to different image patte
 **Exercise:**  Give robot a name.  Edit, compile and load a program, LCD and Audio output.  Saving code in GitHub.
 
 
-**Session Two: Programming I**<br>
-**Exercise: Move the Robot, Edge Detection, Program motor control using libraries & APIs.<br>
-**Lecture: Expressions, Syntax, Variables, if/then, loops<br>
-**Exercise: Turn the Robot, Speed control, orientation with the gyro and compass, move in a pattern.
+**Session Two:** Programming I**<br>
+**Exercise:** Move the Robot, Edge Detection, Program motor control using libraries & APIs.<br>
+**Lecture:** Expressions, Syntax, Variables, if/then, loops<br>
+**Exercise:** Turn the Robot, Speed control, orientation with the gyro and compass, move in a pattern.
 
+**Session Three:** Programming II<br>
+**Exercise:** Line following.  Program processing of IR LED/Phototransistor inputs.<br>
+**Lecture:** Scope, Functions, High Level vs. Low Level Languages, The Art of Debugging<br>
+**Exercise:** Step-Thru Debugging with Simulator for Arduino
 
-**Session Three: Programming II<br>
-**Exercise: Line following.  Program processing of IR LED/Phototransistor inputs.<br>
-**Lecture: Scope, Functions, High Level vs. Low Level Languages, The Art of Debugging<br>
-**Exercise: Step-Thru Debugging with Simulator for Arduino
-
-**Session Four: Circuits<br>
-**Exercise: Build a Battery from scratch, light an LED, measure Current, Voltage and Resistance with a Multimeter<br>
-**Lecture: Electricity in 30min: Electrons, Current, Voltage, Resistance, Series, Parallel, Ground<br>
-**Exercise: Build a Reference Circuit using a battery, LED, Switch and Ground.<br>
+**Session Four:** Circuits<br>
+**Exercise:** Build a Battery from scratch, light an LED, measure Current, Voltage and Resistance with a Multimeter<br>
+**Lecture:** Electricity in 30min: Electrons, Current, Voltage, Resistance, Series, Parallel, Ground<br>
+**Exercise:** Build a Reference Circuit using a battery, LED, Switch and Ground.<br>
 Debug the three types of circuit failures: Short Circuits, Grounded Circuits, Open Circuits 
 
-**Session Five: Roaming<br>
-**Exercise:  Detect collisions with accelerometer, Detect objects in space with proximity sensors.<br>
-**Lecture:  Why Accelerometers and proximity sensors work.<br>
-**Exercise: Advanced Roaming, navigating terrain, avoiding moving obstacles.
+**Session Five:** Roaming<br>
+**Exercise:**  Detect collisions with accelerometer, Detect objects in space with proximity sensors.<br>
+**Lecture:**  Why Accelerometers and proximity sensors work.<br>
+**Exercise:** Advanced Roaming, navigating terrain, avoiding moving obstacles.
 
 
-**Session Six: Servo Mechanical Control<br>
-**Exercise: Attach Pan-Tilt servo arm to the Robot<br>
-**Lecture: Servo safety, how to servos work<br>
-**Exercise: Point the servo arm at detected objects
+**Session Six:** Servo Mechanical Control<br>
+**Exercise:** Attach Pan-Tilt servo arm to the Robot<br>
+**Lecture:** Servo safety, how to servos work<br>
+**Exercise:** Point the servo arm at detected objects
 
-**Session Seven: Pattern Recognition<br>
-**Exercise: Attach Pixy CMUcam5 image sensor to servo arm<br>
-**Lecture: Image Sensors and Pattern Recognition<br>
-**Exercise:  Program robot for follow/flight when it recognizes certain image patterns.
+**Session Seven:** Pattern Recognition<br>
+**Exercise:** Attach Pixy CMUcam5 image sensor to servo arm<br>
+**Lecture:** Image Sensors and Pattern Recognition<br>
+**Exercise:**  Program robot for follow/flight when it recognizes certain image patterns.
 
 **Session Eight:** Open Lab<br>
 **Exercise:** TBD<br>
@@ -222,15 +221,15 @@ All equipment is kept in the lab at all times.
 * [Simulator for Arduino](http://www.virtronics.com.au/Simulator-for-Arduino.html)
 
 ####Hardware
-[Zumo 32U4](https://www.pololu.com/product/3126/resources)
-[Mini Pan-Tilt Arm and Micro Servos](https://www.adafruit.com/products/1967)
-[Pixy CMUcam5 Sensor](https://www.adafruit.com/products/1906) 
+* [Zumo 32U4](https://www.pololu.com/product/3126/resources)
+* [Mini Pan-Tilt Arm and Micro Servos](https://www.adafruit.com/products/1967)
+* [Pixy CMUcam5 Sensor](https://www.adafruit.com/products/1906) 
 
 ###Text and Reference Material
 
 Purdum, Jack J. *Beginning C for Arduino* New York: Apress, 2012. Print.
 
-Atmel ATmega32U4(http://www.atmel.com/devices/atmega32u4.aspx)
+[Atmel ATmega32U4](http://www.atmel.com/devices/atmega32u4.aspx)
 
 [Arduino](https://www.arduino.cc/)
 
