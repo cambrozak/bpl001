@@ -109,6 +109,37 @@ proximity sensors.
 Provide the robot with the sense of sight by attaching an image sensor
 to the pan-tilt mechanism and writing programs to react to different image patterns.
 
+##Teaching and Learning Style
+
+The primary objective of this course is
+to inspire middle school students to take an interest in Robotics
+regardless of prior skills and experience. 
+
+A broad top-down approach to the overall subject
+combined with a hands-on laboratory setting with bottom-up emphasis on select problems
+enables students to learn by discovery and be effective with the technology immediately.
+This teaching style provides just enough detail to learn foundational concepts
+and hold the interest of budding begginers.
+
+Each classroom session follows a *Lab-Lecture-Lab* format:
+
+A simple lab exercise is completed as a group to start the session.
+Students follow along with the instructor to load prewritten software
+and wire up components onto the Robot and observe resulting physical behavior.
+The sesssion does not proceed until every Robot is successfuly performing as expected.
+
+A short lecture explains how and why the lab exercise worked and answers open questions.
+The lecture also connects the lab exercise to examples in the real world.
+
+A final lab exercise challenges the students to implement their own original ideas
+by combining the first lab with previous learning.
+
+##Class Rules
+
+1. Respect each other.
+2. Respect the lab.
+3. Respect the equipment.
+4. 
 ##Schedule
 
 ###_Session One: Introductions, Orientation, First Program_
@@ -157,37 +188,6 @@ to the pan-tilt mechanism and writing programs to react to different image patte
 **Exercise:** TBD<br>
 **Lecture:** TBD<br>
 **Exercise:** TBD
-
-##Teaching and Learning Style
-
-The primary objective of this course is
-to inspire middle school students to take an interest in Robotics
-regardless of prior skills and experience. 
-
-A broad top-down approach to the overall subject
-combined with a hands-on laboratory setting with bottom-up emphasis on select problems
-enables students to learn by discovery and be effective with the technology immediately.
-This teaching style provides just enough detail to learn foundational concepts
-and hold the interest of budding begginers.
-
-Each classroom session follows a *Lab-Lecture-Lab* format:
-
-A simple lab exercise is completed as a group to start the session.
-Students follow along with the instructor to load prewritten software
-and wire up components onto the Robot and observe resulting physical behavior.
-The sesssion does not proceed until every Robot is successfuly performing as expected.
-
-A short lecture explains how and why the lab exercise worked and answers open questions.
-The lecture also connects the lab exercise to examples in the real world.
-
-A final lab exercise challenges the students to implement their own original ideas
-by combining the first lab with previous learning.
-
-##Class Rules
-
-1. Respect each other.
-2. Respect the lab.
-3. Respect the equipment.
 
 ##Equipment
 
