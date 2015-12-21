@@ -34,7 +34,7 @@ embedded systems, programming, circuits, motors, sensors and servos.
 Students collaborate on their own autonomous robot platform
 to implement dynamic physical behaviors such as:
 edge detection, line following, collision detection, orientation, 
-proximity sensing, audio & lcd text output, image sensing amd servo controlled arm manipulation.
+proximity sensing, audio & lcd text output, image sensing and servo controlled arm manipulation.
 
 Short lectures connect the laboratory exercises 
 to current state of the art happenings across the field of Robotics and beyond.
