@@ -1,27 +1,5 @@
 #BPL001 Introduction to Robotics
 
-> Instructor: Carlos Ambrozak
-
-> Spring 2016
-
-##General Information
-
-####Class Time
-
-Monday 4-530PM
-
-####Classroom Location 
-
-Main Library Tech Lab, 480 Primrose Rd.  Burlingame, CA 94010
-
-####Contact Info
-
-Kim Day day@plsinfo.org, Carlos Ambrozak carlos.ambrozak@gmail.com
-
-####Website
-
-https://github.com/cambrozak/bp001
-
 ##Course Description
 
 The field of Robotics is at a fascinating and exciting point in its evolution.
@@ -42,7 +20,6 @@ proximity sensing, audio & lcd text output, image sensing and servo controlled a
 
 Short lectures connect the laboratory exercises 
 to current state of the art happenings across the field of Robotics and beyond.
-
 
 ##Prerequisites
 
