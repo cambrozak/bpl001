@@ -207,7 +207,7 @@ Purdum, Jack J. *Beginning C for Arduino* New York: Apress, 2012. Print.
 
 [Arduino](https://www.arduino.cc/)
 
-##### License & Copyright
+## License & Copyright
 
-<sup><sub>*BPL001 Introduction to Robotics* by [Carlos Ambrozak](http://bpl001.ambrozak.com)
-is licensed under a [Creative Commons Attribution 4.0 International License](http://creativecommons.org/licenses/by/4.0/).<sup><sub>
+*BPL001 Introduction to Robotics* by [Carlos Ambrozak](http://bpl001.ambrozak.com)
+is licensed under a [Creative Commons Attribution 4.0 International License](http://creativecommons.org/licenses/by/4.0/).
