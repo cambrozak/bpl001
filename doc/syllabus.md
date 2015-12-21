@@ -71,7 +71,7 @@ Write programs that use variables in different scopes to
 understand the general concept of scope in programming languages
 and how it is implemented in the C language for Arduino.
 
-Use a Simulater and Step-Thru Debugger to troubleshoot programs with the 'EIPOC' meta-tactic.
+Use a Simulator and Step-Thru Debugger to troubleshoot programs with the 'EIPOC' meta-tactic.
 
 Observe how electrons move through a conductor
 using a physical marble-madness model
