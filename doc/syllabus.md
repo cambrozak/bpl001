@@ -9,8 +9,7 @@
 Monday 4-530PM
 
 ####Classroom Location 
-Main Library Tech Lab<br>
-480 Primrose Rd.  Burlingame, CA 94010
+Main Library Tech Lab, 480 Primrose Rd.  Burlingame, CA 94010
 
 ####Contact Info
 Kim Day day@plsinfo.org, Carlos Ambrozak carlos.ambrozak@gmail.com
