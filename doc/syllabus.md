@@ -3,7 +3,7 @@
 
 > Spring 2016
 
-###General Information
+##General Information
 
 ####Class Time
 Monday 4-530PM
@@ -19,14 +19,14 @@ Kim Day day@plsinfo.org, Carlos Ambrozak carlos.ambrozak@gmail.com
 https://github.com/cambrozak/bp001
 
 
-###Course Description
+##Course Description
 
 The field of Robotics is at a fascinating and exciting point in its evolution.
 Robots are no longer confined to the realms of industry and research,
 they are rapidly becoming a part of daily life.
 
 This course provides Middle School students with an introduction
-to fundamental concepts and practical applications of robotic systems
+to fundamental concepts and practical application of tools and techniques for building robotic systems
 in order to inspire further study and participation in High School and College programs.
 
 Hands-on laboratory exercises provide experience with
@@ -35,17 +35,17 @@ embedded systems, programming, circuits, motors, sensors and servos.
 Students collaborate on their own autonomous robot platform
 to implement dynamic physical behaviors such as:
 edge detection, line following, collision detection, orientation, 
-proximity sensing, audio & lcd text output, image sensing, servo controlled arm manipulation
+proximity sensing, audio & lcd text output, image sensing amd servo controlled arm manipulation.
 
 Short lectures connect the laboratory exercises 
 to current state of the art happenings across the field of Robotics and beyond.
 
 
-###Prerequisites
+##Prerequisites
 
 None!  This class is for motivated beginners.
 
-###Teaching and Learning Style
+##Teaching and Learning Style
 
 The primary objective of this course is
 to inspire middle school students to take an interest in Robotics
@@ -57,7 +57,7 @@ enables students to learn by discovery and be effective with the technology imme
 This teaching style provides just enough detail to learn foundational concepts
 and hold the interest of budding begginers.
 
-Each classroom session follows a Lab-Lecture-Lab format:
+Each classroom session follows a *Lab-Lecture-Lab* format:
 
 A simple lab exercise is completed as a group to start the session.
 Students follow along with the instructor to load prewritten software
@@ -71,22 +71,17 @@ A final lab exercise challenges the students to implement their own original ide
 by combining the first lab with previous learning.
 
 
-###Class Rules
+##Class Rules
 
 1. Respect each other.
 2. Respect the lab.
 3. Respect the equipment.
 
 
-###Objectives and Outcomes
-
-Students and Instructor will...
-
-Introduce each other, get acquainted and understand overall class objectives,
-rules and the how each session is structured in Lab-Lecture-Lab format.
+##Objectives and Outcomes
 
 Discuss experience with robots in the real world in order to
-understand what a robot is and how it relates to general purpose compters and embedded systems.
+understand what a robot is and how it relates to general purpose computers and embedded systems.
 
 Know the characteristics of four main classes of robots: Pre-Programmed, Autonomous, Remote and Augmenting.
 
@@ -96,10 +91,9 @@ Write and upload source code programs for execution on a physical robot.
 
 Utilize source code program libraries to understand how libraries and APIs work and why they are important.
 
-Maintain source code in a versioned repository to understand revision history, forking, branching and pull requests.
+Maintain source code in a versioned repository to understand revision history.
 
-Define expressions, syntax, high-level vs. low-level in order to
-understand some general fundamentals of programming languages.
+Understand some general fundamentals of programming languages: expressions, syntax, high-level vs low-level.
 
 Write programs with typical programming forms to control hardware: variables, if/then, loops, functions.
 
@@ -114,27 +108,27 @@ using a physical marble-madness model
 to understand how current flow affects circuit components such as lights LEDs and Motors. 
 
 Build a simple battery from scratch, power an LED and probe it with a multimeter
-to understand Electric Current in Circuits and how it relates to Voltage and Resistance.
+to observe and understand Electric Current in Circuits and how it relates to Voltage and Resistance.
 
 Add cells to the homeade battery in Parallel and Series configurations, probe with a multimeter
-to understand how these arrangements affect Voltage and Current.
+to observe and understand how these arrangements affect Voltage and Current.
 
 Construct a Reference Circuit on a breadboard composed of 
 a battery, fuse, control switch, an LED and Common Ground to explore and understand
-how troubleshoot the three types of circuit problems:
+how to troubleshoot the three types of circuit problems:
 Short Circuits, Grounded Circuits and Open Circuits
 
-Provide the robot with an identity by writing a program to store and display
+Provide the Robot with an identity by writing a program to store and display
 its name and unique ID on a LCD display and play a distinguishing tune with a Piezo Buzzer.
 
-Provide the robot with edge detection awareness by writing programs to process
+Provide the Robot with edge detection awareness by writing programs to process
 input from IR LED/Phototransistors and control motor outputs.
 This keeps the robot from roaming beyond the test area.
 
-Provide the robot with path finding abilities by writing programs to process
+Provide the Robot with path finding abilities by writing programs to process
 input from IR LED/Phototransistors and control motor outputs.
 
-Provide the robot with free-roaming capabilities and collision detection
+Provide the robot with autonomous roaming capabilities and collision detection
 by writing programs that process proximity sensors, accelerometer,
 gyroscope and compass inputs and control motor outputs.
 
