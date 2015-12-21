@@ -60,8 +60,8 @@ Each classroom session follows a *Lab-Lecture-Lab* format:
 
 A simple lab exercise is completed as a group to start the session.
 Students follow along with the instructor to load prewritten software
-and wire up components onto the robot and observe resulting physical behavior.
-The sesssion does not proceed until every robot is successfuly performing as expected.
+and wire up components onto the Robot and observe resulting physical behavior.
+The sesssion does not proceed until every Robot is successfuly performing as expected.
 
 A short lecture explains how and why the lab exercise worked and answers open questions.
 The lecture also connects the lab exercise to examples in the real world.
