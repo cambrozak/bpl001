@@ -185,8 +185,8 @@ to the pan-tilt mechanism and writing programs to react to different image patte
 
 ###_Session Eight: Open Lab_
 
-**Exercise:** TBD
-**Lecture:** TBD
+**Exercise:** TBD<br>
+**Lecture:** TBD<br>
 **Exercise:** TBD
 
 ##Equipment
