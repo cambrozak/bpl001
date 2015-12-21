@@ -90,11 +90,11 @@ understand what a robot is and how it relates to general purpose compters and em
 
 Know the characteristics of four main classes of robots: Pre-Programmed, Autonomous, Remote and Augmenting.
 
-Employ simple tactics to identify and overcome two major impediments to hi-tech learning: FUD & Buzzwords. 
+Employ simple tactics to identify and overcome two major obstacles to hi-tech learning: FUD & Buzzwords. 
 
 Write and upload source code programs for execution on a physical robot.
 
-Find and utilize source code program libraries to understand how libraries work and why they are important.
+Utilize source code program libraries to understand how libraries and APIs work and why they are important.
 
 Maintain source code in a versioned repository to understand revision history, forking, branching and pull requests.
 
@@ -104,45 +104,25 @@ understand some general fundamentals of programming languages.
 Write programs with typical programming forms to control hardware: variables, if/then, loops, functions.
 
 Write programs that use variables in different scopes to 
-understand the general concept of scope in programming
+understand the general concept of scope in programming languages
 and how it is implemented in the C language for Arduino.
 
-Write C programs using Arduino core and third party APIs to control robot hardware 
-in order to get experience with and understand the importance of APIs.
+Use a Simulater and Step-Thru Debugger to troubleshoot programs with the 'EIPOC' meta-tactic.
 
-Debug programs successfully with Carlos's foolproof 'EIPOC' meta-tactic and various tools.
-
-Use a simulator to test hardware and software offline.
- 
 Observe how electrons move through a conductor
 using a physical marble-madness model
-to understand how elecron flow affects circuit components such as lights LEDs and Motors. 
+to understand how current flow affects circuit components such as lights LEDs and Motors. 
 
-Build a simple battery from scratch to power an LED and probe it with a multimeter
+Build a simple battery from scratch, power an LED and probe it with a multimeter
 to understand Electric Current in Circuits and how it relates to Voltage and Resistance.
 
-Add cells to the homeade battery and probe with a multimeter
-to understand the concept of Parallel and Series circuits
-and how these arrangements affect Voltage and Current.
+Add cells to the homeade battery in Parallel and Series configurations, probe with a multimeter
+to understand how these arrangements affect Voltage and Current.
 
-Construct a Reference Circuit on a breadboard composed of a battery power source,
-a fuse, a control switch, an LED and Common Ground to explore and understand
-and troubleshoot the three types of circuit problems:
+Construct a Reference Circuit on a breadboard composed of 
+a battery, fuse, control switch, an LED and Common Ground to explore and understand
+how troubleshoot the three types of circuit problems:
 Short Circuits, Grounded Circuits and Open Circuits
-
-Short the Reference Circuit on purpose to observe the symptoms of short circuits
-and understand how to detect and fix this common problem.
-Blow the fuse on purpose in the Reference Circuit to demonstrate saftey concerns
-and the real possibility of damaging hardware with short circuits.
-
-Ground the Reference Circuit on purpose to observe the symptoms of grounded circuits
-and understand how to detect and fix this common problem.
-Blow the fuse on purpose in the Reference Circuit to demonstrate saftey concerns
-and the real possibility of damaging hardware with grounded circuits.
-
-Open the Reference Circuit on purpose by breaking the LED to observe the symptoms of open circuits
-and understand how to detect and fix this common problem.
-Deterimine if it is possible to damage hardware with open circuits.
 
 Provide the robot with an identity by writing a program to store and display
 its name and unique ID on a LCD display and play a distinguishing tune with a Piezo Buzzer.
