@@ -170,7 +170,7 @@ Debug the three types of circuit failures: Short Circuits, Grounded Circuits, Op
 
 **Session Six:** Servo Mechanical Control<br>
 **Exercise:** Attach Pan-Tilt servo arm to the Robot<br>
-**Lecture:** Servo safety, how to servos work<br>
+**Lecture:** Servo safety, how servos work<br>
 **Exercise:** Point the servo arm at detected objects
 
 **Session Seven:** Pattern Recognition<br>
