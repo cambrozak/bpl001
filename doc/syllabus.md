@@ -139,7 +139,7 @@ by combining the first lab with previous learning.
 1. Respect each other.
 2. Respect the lab.
 3. Respect the equipment.
-4. 
+
 ##Schedule
 
 ###_Session One: Introductions, Orientation, First Program_
