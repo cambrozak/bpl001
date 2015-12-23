@@ -32,95 +32,32 @@ This course provides Middle School students with an introduction
 to fundamental concepts and practical application of tools and techniques for building robotic systems
 in order to inspire further study and participation in High School and College programs.
 
-Hands-on laboratory exercises provide experience with
-embedded systems, programming, circuits, motors, sensors and servos.
-
-Students collaborate on their own autonomous robot platform
-to implement dynamic physical behaviors such as:
-edge detection, line following, collision detection, orientation, 
-proximity sensing, audio & lcd text output, image sensing and servo controlled arm manipulation.
-
-Short lectures connect the laboratory exercises 
-to current state of the art happenings across the field of Robotics and beyond.
-
+Hands-on laboratory exercises and short lectures will explore
+programming, circuits, embedded systems, motors, sensors and servos.
 
 ##Prerequisites
 
 None!  This class is for motivated beginners.
 
-##Objectives and Outcomes
+##Objectives
 
-Discuss experience with robots in the real world in order to
-understand what a robot is and how it relates to general purpose computers and embedded systems.
+* Have Fun!
+* Write lots of programs to provide a robot with interesting autonomous behaviours
+* Understand the fundamentals of electricity and circuits
+* Hands-on experience with robot hardware: LCD, sensors, gyros, accellerometers, motors, servos, cameras
+* Connect concepts to robots in the real world 
 
-Know the characteristics of four main classes of robots: Pre-Programmed, Autonomous, Remote and Augmenting.
+##Teaching and Learning Styles
 
-Employ simple tactics to identify and overcome two major obstacles to hi-tech learning: FUD & Buzzwords. 
+Technical subjects are often presented bottom-up, in a way that favors visual/abstract learning over audio/kinesthetic styles.   
 
-Write and upload source code programs for execution on a physical robot.
+This course takes a holistic approach to learning styles
+by using broad top-down approach to the overall subject
+and a hands-on laboratory setting to fill in bottom-up details on select problems.
 
-Utilize source code program libraries to understand how libraries and APIs work and why they are important.
+This approach enables students to engage all learning modes, learn by discovery and be effective with the technology immediately.
 
-Maintain source code in a versioned repository to understand revision history.
-
-Understand some general fundamentals of programming languages: expressions, syntax, high-level vs low-level.
-
-Write programs with typical programming forms to control hardware: variables, if/then, loops, functions.
-
-Write programs that use variables in different scopes to 
-understand the general concept of scope in programming languages
-and how it is implemented in the C language for Arduino.
-
-Use a Simulator and Step-Thru Debugger to troubleshoot programs with the 'EIPOC' meta-tactic.
-
-Observe how electrons move through a conductor
-using a physical marble-madness model
-to understand how current flow affects circuit components such as lights LEDs and Motors. 
-
-Build a simple battery from scratch, power an LED and probe it with a multimeter
-to observe and understand Electric Current in Circuits and how it relates to Voltage and Resistance.
-
-Add cells to the homeade battery in Parallel and Series configurations, probe with a multimeter
-to observe and understand how these arrangements affect Voltage and Current.
-
-Construct a Reference Circuit on a breadboard composed of 
-a battery, fuse, control switch, an LED a Resistor and Common Ground to explore and understand
-how to troubleshoot the three types of circuit problems:
-Short Circuits, Grounded Circuits and Open Circuits
-
-Provide the Robot with an identity by writing a program to store and display
-its name and unique ID on a LCD display and play a distinguishing tune with a Piezo Buzzer.
-
-Provide the Robot with edge detection awareness by writing programs to process
-input from IR LED/Phototransistors and control motor outputs.
-This keeps the robot from roaming beyond the test area.
-
-Provide the Robot with path finding abilities by writing programs to process
-input from IR LED/Phototransistors and control motor outputs.
-
-Provide the robot with autonomous roaming capabilities and collision detection
-by writing programs that process proximity sensors, accelerometer,
-gyroscope and compass inputs and control motor outputs.
-
-Provide the robot with an articulated arm by connecting a pan-tilt mechanism to the chassis
-and writing programs to control servo movements and point the arm at objects detected by
-proximity sensors.
-
-Provide the robot with the sense of sight by attaching an image sensor
-to the pan-tilt mechanism and writing programs to react to different image patterns.
-
-##Teaching and Learning Style
-
-The primary objective of this course is
-to inspire middle school students to take an interest in Robotics
-regardless of prior skills and experience. 
-
-A broad top-down approach to the overall subject
-combined with a hands-on laboratory setting with bottom-up emphasis on select problems
-enables students to learn by discovery and be effective with the technology immediately.
-This teaching style provides just enough detail to learn foundational concepts
-and hold the interest of budding begginers.
-
+##Class Format
 Each classroom session follows a *Lab-Lecture-Lab* format:
 
 A simple lab exercise is completed as a group to start the session.
@@ -134,11 +71,11 @@ The lecture also connects the lab exercise to examples in the real world.
 A final lab exercise challenges students to implement their own original ideas
 by combining the first lab with previous learning.
 
-##Class Rules
+##Class Values and Conduct
 
-1. Respect each other.
-2. Respect the lab.
-3. Respect the equipment.
+1. Win together by sharing and listening thoughtfully to ideas.
+2. Handle delicate equipment with care.
+3. Fun is Mandatory.
 
 ##Schedule
 
