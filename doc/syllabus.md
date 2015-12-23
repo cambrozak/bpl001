@@ -82,49 +82,49 @@ by combining the first lab with previous learning.
 ###_Session One: Introductions, Orientation, First Program_
 
 **Lecture:**  What's a Robot?  Hi-Tech Learning<br>
-**Exercise:**  Give the Robot a name.  Edit, compile and load a program, LCD and Audio output.  Save code in GitHub.
+**Lab:**  Give the Robot a name.  Edit, compile and load a program, LCD and Audio output.  Save code in GitHub.
 
 ###_Session Two: Programming, Positioning, Motors_
 
-**Exercise:** Move the Robot, Edge Detection, Program motor control using libraries & APIs.<br>
+**Lab:** Move the Robot, Edge Detection, Program motor control using libraries & APIs.<br>
 **Lecture:** Expressions, Syntax, Variables, if/then, loops<br>
-**Exercise:** Turn the Robot, Speed control, positioning with the gyro and compass.
+**Lab:** Turn the Robot, Speed control, positioning with the gyro and compass.
 
 ###_Session Three: Programming, Debugging, Line Following_
 
-**Exercise:** Line following.  Program processing of IR LED/Phototransistor inputs.<br>
+**Lab:** Line following.  Program processing of IR LED/Phototransistor inputs.<br>
 **Lecture:** Scope, Functions, High Level vs. Low Level Languages, The Art of Debugging<br>
-**Exercise:** Step-Thru Debugging with Simulator for Arduino
+**Lab:** Step-Thru Debugging with Simulator for Arduino
 
 ###_Session Four: Electricity, Circuits_
 
-**Exercise:** Build a Battery from scratch, light an LED, measure Current, Voltage and Resistance with a Multimeter<br>
+**Lab:** Build a Battery from scratch, light an LED, measure Current, Voltage and Resistance with a Multimeter<br>
 **Lecture:** Intro to Electricity: Electrons, Current, Voltage, Resistance, Series, Parallel, Ground<br>
-**Exercise:** Build a Reference Circuit using a battery, LED, Switch and Ground.  Debug the three types of circuit failures: Short Circuits, Grounded Circuits, Open Circuits 
+**Lab:** Build a Reference Circuit using a battery, LED, Switch and Ground.  Debug the three types of circuit failures: Short Circuits, Grounded Circuits, Open Circuits 
 
 ###_Session Five: Roaming_
 
-**Exercise:**  Detect collisions with accelerometer, Detect objects in space with proximity sensors.<br>
+**Lab:**  Detect collisions with accelerometer, Detect objects in space with proximity sensors.<br>
 **Lecture:**  Why Accelerometers and proximity sensors work.<br>
-**Exercise:** Advanced Roaming, navigating terrain, avoiding moving obstacles.
+**Lab:** Advanced Roaming, navigating terrain, avoiding moving obstacles.
 
 ###_Session Six: Servo Mechanical Control_
 
-**Exercise:** Attach Pan-Tilt servo arm to the Robot<br>
+**Lab:** Attach Pan-Tilt servo arm to the Robot<br>
 **Lecture:** Servo safety, how servos work<br>
-**Exercise:** Point the servo arm at detected objects
+**Lab:** Point the servo arm at detected objects
 
 ###_Session Seven: Pattern Recognition_
 
-**Exercise:** Attach Pixy CMUcam5 image sensor to servo arm<br>
+**Lab:** Attach Pixy CMUcam5 image sensor to servo arm<br>
 **Lecture:** Image Sensors and Pattern Recognition<br>
-**Exercise:**  Program robot to follow or flee when it recognizes certain image patterns.
+**Lab:**  Program robot to follow or flee when it recognizes certain image patterns.
 
 ###_Session Eight: Open Lab_
 
-**Exercise:** TBD<br>
+**Lab:** TBD<br>
 **Lecture:** TBD<br>
-**Exercise:** TBD
+**Lab:** TBD
 
 ##Equipment
 
