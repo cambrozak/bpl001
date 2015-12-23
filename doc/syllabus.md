@@ -53,7 +53,7 @@ Technical subjects are often presented bottom-up, in a way that favors visual/ab
 
 This course takes a holistic approach to learning styles
 by using broad top-down approach to the overall subject
-and a hands-on laboratory setting to fill in bottom-up details on select problems.
+and a hands-on laboratory setting to fill in bottom-up details with applicable exercises.
 
 This approach enables students to engage all learning modes, learn by discovery and be effective with the technology immediately.
 
