@@ -44,7 +44,7 @@ None!  This class is for motivated beginners.
 * Have Fun!
 * Write lots of programs to provide a robot with interesting autonomous behaviours
 * Understand the fundamentals of electricity and circuits
-* Hands-on experience with robot hardware: LCD, sensors, gyros, accellerometers, motors, servos, cameras
+* Hands-on experience with robot hardware: embedded systems, LCDs, sensors, gyros, accellerometers, motors, servos, cameras
 * Connect concepts to robots in the real world 
 
 ##Teaching and Learning Styles
