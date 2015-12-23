@@ -74,7 +74,7 @@ by combining the first lab with previous learning.
 ##Class Values and Conduct
 
 1. Win together by sharing and listening thoughtfully to ideas.
-2. Handle delicate equipment with care.
+2. Handle delicate equipment with care and safety.
 3. Fun is Mandatory.
 
 ##Schedule
