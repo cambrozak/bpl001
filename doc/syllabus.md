@@ -32,7 +32,7 @@ This course provides Middle School students with an introduction
 to fundamental concepts and practical application of tools and techniques for building robotic systems
 in order to inspire further study and participation in High School and College programs.
 
-Hands-on laboratory exercises and short lectures will explore
+Hands-on laboratory exercises and short lectures explore
 programming, circuits, embedded systems, motors, sensors and servos.
 
 ##Prerequisites
