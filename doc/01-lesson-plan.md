@@ -1,5 +1,4 @@
-#BPL001 Introduction to Robotics
-##Session One: Introductions, Orientation, First Program
+#Session One: Introductions, Orientation, First Program
 
 ###Introductions (30min)
 _**Objective:** Instructor and Students get acquainted_<br>
@@ -18,7 +17,7 @@ _**Objective:** Students differentiate between four classes of Robot: Pre-Progra
 **Activity:** View video examples of each, end with a video of the Zumo roaming to emphasize this course's focus on Autonomous Robots.
 
 
-###Lab: First Program (45min)
+###Lab: First Program (30min)
 _**Objective:** Students upload a program to the Robot that displays a name on the LCD_<br>
 _**Activity:** Students learn how to obtain libraries and programs from GitHub_<br>
 _**Activity:** Students learn how to load and edit a program with an IDE_<br>
