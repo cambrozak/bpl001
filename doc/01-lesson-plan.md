@@ -6,8 +6,8 @@
 > Spring 2016
 
 ###Introductions
-_**Goal:** Instructor and Students get acquainted_ 
-**Activity:** Instructor and Students will indroduce each other and briefly describe an encounters with a real robot.
+_**Goal:** Instructor and Students get acquainted_<br>
+**Activity:** Instructor and Students will indroduce each other and briefly describe an encounter with a real robot.
 
 ###Class Orientation
 _**Goal:** Students have an overall sense of what is covered in the class_<br>
