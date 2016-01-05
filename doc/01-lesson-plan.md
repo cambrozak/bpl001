@@ -1,33 +1,26 @@
 #BPL001 Introduction to Robotics
 ##Session One: Introductions, Orientation, First Program
 
-###Introductions
+###Introductions (30min)
 _**Objective:** Instructor and Students get acquainted_<br>
 **Activity:** Instructor and Students introduce each other and briefly describe an encounter with a real robot.
 
-###Class Orientation
+###Class Orientation (15min)
 _**Objective:** Students have an overall sense of what is covered in the class_<br>
 **Activity:** Instructor and Students read the syllabus, clarify with questions.
 
 _**Objective:** Students understand the lab-lecture-lab format, how to handle equipment, how the pairing rotation works_<br>
 **Activity:** Students perform three rotations, left moves to the left, right moves to the right. 
 
-###Lecture: Tips for Hi-Tech Learning in this course and Beyond.
-_**Objective:** Students understand how Buzzwords cause confusion and hinder learning_<br>
-**Activity:** Students explore the continuum between Terminology, Jargon and Buzzwords using a popular current example: "4K"<br>
-
-_**Objective:** Students appreciate the benefits of Buzzwords for marketing and casual communication_<br>
-**Activity:** Students are challenged to find Buzzwords in this course and translate them into proper Terminology and/or Jargon for bonus points
-
-###Lecture: From "What's a Robot?" to "Where's the Robot?"
+###Lecture: "What's a Robot?" or rather, "Where's the Robot?" (15min)
 _**Objective:** Students define Robot in simple fundamental terms: A tool used to enhance human activity_<br>
-**Activity:** Students discuss examples of tools (hammers, cars, planes, etc) and discover that Robots are everywhere, often embedded in everydays tools.
+**Activity:** Students discuss examples of tools (hammers, cars, planes, etc) and discover that Robots are everywhere, often embedded in everydays objects.
 
-_**Objective:** Students differentiate between four classes of Robot: Pre-Programmed, Autonomous, Teleoperated and Augmenting_
-**Activity:** Students are challenged to find Buzzwords in this course and translate them into proper Terminology and/or Jargon for bonus points
+_**Objective:** Students differentiate between four classes of Robot: Pre-Programmed, Autonomous, Teleoperated and Augmenting_<br>
+**Activity:** View video examples of each, end with a video of the Zumo roaming to emphasize this course's focus on Autonomous Robots.
 
 
-###Lab: First Program
+###Lab: First Program (45min)
 _**Objective:** Students upload a program to the Robot that displays a name on the LCD_<br>
 _**Activity:** Students learn how to obtain libraries and programs from GitHub_<br>
 _**Activity:** Students learn how to load and edit a program with an IDE_<br>
