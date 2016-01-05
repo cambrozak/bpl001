@@ -7,10 +7,8 @@ _**Objective:** Instructor and Students get acquainted_<br>
 
 ###Class Orientation (15min)
 _**Objective:** Students have an overall sense of what is covered in the class_<br>
-**Activity:** Instructor and Students read the syllabus, clarify with questions.
-
-_**Objective:** Students understand the lab-lecture-lab format, how to handle equipment, how the pairing rotation works_<br>
-**Activity:** Students perform three rotations, left moves to the left, right moves to the right. 
+_**Objective:** Students understand the lab-lecture-lab format, rules of conduct and how to handle delicate equipment_<br>
+**Activity:** Instructor and Students read the syllabus together, clarify with questions.
 
 ###Lecture: "What's a Robot?" or rather, "Where's the Robot?" (15min)
 _**Objective:** Students define Robot in simple fundamental terms: A tool used to enhance human activity_<br>
