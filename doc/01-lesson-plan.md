@@ -31,6 +31,4 @@ _**Goal:** Students modify the program to provide a unique custom name for the R
 _**Goal:** Students learn how to obtain code from GitHub_ 
 _**Goal:** Students learn how to load and edit code in the Arduino IDE_ 
 
-## License & Copyright
-
-*BPL001 Introduction to Robotics by Carlos Ambrozak* is licensed under a [Creative Commons Attribution 4.0 International License](http://creativecommons.org/licenses/by/4.0/).
+<sup><sub>*BPL001 Introduction to Robotics by Carlos Ambrozak* is licensed under a Creative Commons Attribution 4.0 International License.</sub></sup>
