@@ -11,20 +11,17 @@ _**Objective:** Students have an overall sense of topics covered in the class_<b
 _**Objective:** Students understand the lab-lecture-lab format, rules of conduct and how to handle delicate equipment_<br>
 **Activity:** Instructor and Students read the syllabus together, clarify with questions.
 
-###Lecture: "What's a Robot?" or "Where's the Robot?" (15min)
-_**Objective:** Students define Robot in simple fundamental terms: An tool that can carry out complex actions automatically_<br>
-**Activity:** Students discuss examples of tools (hammers, cars, planes, etc) and discover that Robots are everywhere, often embedded in everydays objects such as washing machines.
+###Lecture: "What's a Robot?" (15min)
+_**Objective:** Students define the term Autonomous Robot and understand what makes it different from other types of robotics applications; Augmenting, Teleoperated, Sationary Preprogrammed_<br>
+**Activity:**  Students view video examples of Augmenting, Teleoperated, Stationary Preprogrammed and Autonomous Robots and define the characteristics of each type in an open discussion.  Instructor writes characteristics for each in a four lists on the board as they are discovered by Student discussion. 
 
-_**Objective:** Students differentiate between four classes of Robot: Augmenting, Teleoperated, Rooted, Autonomous_<br>
-**Activity:** View video examples of each, end with a video of the Zumo roaming to emphasize this course's focus on Autonomous Robots.
-
-Augmenting<br>
+Augmenting
 http://www.mind.ilstu.edu/curriculum/medical_robotics/augmenting.php
 
 Teleoperated<br>
 https://www.youtube.com/watch?v=3F2ZTZXwvFY
 
-Rooted<br>
+Stationary Preprogrammed<br>
 
 
 Autonomous<br>
