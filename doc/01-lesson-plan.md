@@ -2,8 +2,8 @@
 
 ###Introductions (30min)
 _**Objective:** Instructor and Students get acquainted_<br>
-**Activity:** Instructor and Students introduce each other and briefly describe an encounter with a real robot.
-**Activity:** Show video of TUG at UCSF Medical, Instructors first encounter with a real robot.
+**Activity:** Instructor and Students introduce each other and briefly describe an encounter with a real robot.<br>
+**Activity:** Show video of TUG at UCSF Medical, Instructors first encounter with a real robot.<br>
 https://www.youtube.com/watch?v=REEzJfGRaZE
 
 ###Class Orientation (15min)
