@@ -10,7 +10,7 @@ https://www.youtube.com/watch?v=REEzJfGRaZE
 ####_**Objective:** Students understand class scope, lab-lecture-lab format, rules of conduct and how to handle delicate equipment_####
 **Activity:** Instructor and Students read syllabus together, clarify with questions.
 
-###Lecture: "Robots Declassified -- What's a Robot?" (15min)
+###Lecture: Robots Declassified -- What's a Robot? (15min)
 ####_**Objective:** Students define the term "Autonomous Robot" and understand what makes it different from other robotics applications **Augmenting**, **Teleoperated** and **Sationary-Preprogrammed**_####
 **Activity:**  Students view short video examples of Augmenting, Teleoperated, Stationary-Preprogrammed and Autonomous Robots.  Instructor leads students in an open discussion to define the characteristics of each type based on video observations.  Instructor writes characteristics for each in four lists on the board as they are discussed by Students.
 
