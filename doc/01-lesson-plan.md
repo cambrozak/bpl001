@@ -35,6 +35,7 @@ _**Activity:** Students get acquainted with the IDE by loading the LCD library, 
 _**Activity:** Students get familiar with the process of compiling and uploading code to the Robot_<br>
 
 ###Equipment###
+* Laptop for Instructor with internet access
 * Audio, Video, Projector
 * Markerboard
 * Laptop with Arduino IDE
