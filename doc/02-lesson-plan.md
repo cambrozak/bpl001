@@ -1,6 +1,6 @@
 #Session Two: Intro to Programming, Movement with Motors, Positioning with Compass and Gyroscope
 
-###Lab: Move the Robot, Edge Detection, Program motor control using libraries & APIs (15min)
+###Lab: Move the Robot, Edge Detection, Motor Control with Libraries & APIs (15min)
 ####_**Objective: Students load and manipulate a simple program that moves the Robot back and forth within a boundary line**_
 **Activity:** Students follow along with Instructor to add roaming behavior to the simple movement program<br>
 
