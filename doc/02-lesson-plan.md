@@ -9,7 +9,7 @@
 **Activity:** Instructor explains Expressions, Syntax, provides live examples with the C and Python programming languages<br>
 **Activity:** Students identify invalid Expressions and invalid Syntax in a short exercise with the IDE
 
-###Lab: Turn the Robot, Speed control, Positioning with the Gyro and Compass. (45min)
+###Lab: Turn the Robot, Speed control, Positioning with the Gyro and Compass (45min)
 ####_**Objective: Students work with Variables, If/Then logic and Loops to add turning, speed control and positioning behavior to the movement program from the first lab**_
 **Activity:** Students follow along with Instructor to add roaming behavior to the movement program<br>
 **Activity:** Instructor and Students instantiate new Variables in the momvement program to adjust speed<br>
