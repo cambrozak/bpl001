@@ -1,4 +1,4 @@
-#Session Three: More Programming, Debugging, Line Following
+#Session Three: Line Following, More Programming, Debugging
 
 ###Lab: Line Following (15min)
 ####_**Objective: Students load and manipulate a simple program that uses Phototransistor inputs to follow lines**_
@@ -14,8 +14,8 @@
 ###Lecture: The Art of Debugging (15min)
 ####_**Objective: Students empowered with Debugging Heuristics and view Debugging as a Learning Opportunity**_
 **Activity:** Instructor presents an attitude towards Debugging as a Learning Opportunity vs the common DABDA Response<br>
-**Activity:** Instructor and Students discuss complementary Heuristics: Murphy's Law, Sherlock's Law
-**Activity:** Instructor and Students debug broken flashlights, diagnosis' are on the board and extrapolated into a General Debug Checklist
+**Activity:** Instructor and Students discuss complementary Heuristics: Murphy's Law, Sherlock's Law<br>
+**Activity:** Instructor and Students debug broken flashlights, diagnoses are logged on the board and extrapolated into a General Debug Checklist
 
 ###Lab: Debugging in Practice (45min)
 ####_**Objective: Students extend the General Debug Checklist by debugging various scenarios on the Robot with the IDE and Simulator**_
@@ -23,7 +23,7 @@
 General Debug Checklist (completed version)
 
 **Hardware**
-[ ] Power:  Is power on?  Are batteries charged?
+[] Power:  Is power on?  Are batteries charged?
 [ ] Mechanics: Are moving parts inhibited?
 [ ] Components: Are components visibly fried or broken?
 
