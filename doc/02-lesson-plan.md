@@ -2,7 +2,7 @@
 
 ###Lab: Move the Robot, Edge Detection, Motor Control with Libraries & APIs (15min)
 ####_**Objective: Students load and manipulate a simple program that moves the Robot back and forth within a boundary line**_
-**Activity:** Students follow along with Instructor to add roaming behavior to the simple movement program<br>
+**Activity:** Students follow along with Instructor to add basic roaming behavior to the movement program<br>
 
 ###Lecture: Intro to Programming with C and Python (30min)
 ####_**Objective: Students understand fundamental programming concepts: Expressions, Syntax**_
