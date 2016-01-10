@@ -6,7 +6,7 @@
 
 ###Lecture: Intro to Programming with C and Python (30min)
 ####_**Objective: Students understand fundamental programming concepts: Expressions, Syntax**_
-**Activity:** Instructor explains Expressions, Syntax, provides live examples with the C and Python programming languages<br>
+**Activity:** Instructor explains Expressions, Syntax and compare/contrasts live examples with the C and Python programming languages<br>
 **Activity:** Students identify invalid Expressions and invalid Syntax in a short exercise with the IDE
 
 ###Lab: Turn the Robot, Speed control, Positioning with the Gyro and Compass (45min)
