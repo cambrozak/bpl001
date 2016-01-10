@@ -7,15 +7,15 @@ back and forth within a boundary line**_####
 
 ###Lecture: "Intro to Programming with C and Python" (30min)
 ####_**Objective:** Students understand fundamental programming concepts: Expressions, Syntax**_####
-####_**Objective:** Students work with Variables, If/Then logic and Loops using the movement program from the first lab**_####
 **Activity:** Instructor explains Expressions, Syntax, provides live examples with the C and Python programming languages
 **Activity:** Students identify invalid Expressions invalid Syntax in short exercise with the IDE
 
 ###Lab: Turn the Robot, Speed control, Positioning with the Gyro and Compass. (45min)
-####_**Objective: Students add turning, speed control and reckoning behavior to the movement progam**_####
+####_**Objective: Students **_####
+####_**Objective: Students work with Variables, If/Then logic and Loops to add turning, speed control and positioning behavior to the movement program from the first lab**_####
 **Activity:** Students follow along with Instructor to add roaming behavior to the movement program<br>
-**Activity:** Instructor and Students instantiate new Variables in the momvement program to adjust speed 
-**Activity:** Instructor and Students manipulate If/Then statements to adjust border detection behavior
+**Activity:** Instructor and Students instantiate new Variables in the momvement program to adjust speed<br>
+**Activity:** Instructor and Students manipulate If/Then statements to adjust border detection behavior<br>
 **Activity:** Instructor and Students use For Loops and While Loops to control position with the Gyro and Compass
 
 ###Equipment###
