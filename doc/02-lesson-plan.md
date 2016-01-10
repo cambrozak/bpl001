@@ -11,10 +11,10 @@
 
 ###Lab: Turn the Robot, Speed control, Positioning with the Gyro and Compass (45min)
 ####_**Objective: Students work with Variables, If/Then logic and Loops to add turning, speed control and positioning behavior to the movement program from the first lab**_
-**Activity:** Students follow along with Instructor to add roaming behavior to the movement program<br>
-**Activity:** Instructor and Students instantiate new Variables in the momvement program to adjust speed<br>
-**Activity:** Instructor and Students manipulate If/Then statements to adjust border detection behavior<br>
-**Activity:** Instructor and Students use For Loops and While Loops to control position with the Gyro and Compass
+**Activity:** Instructor and Students adjust speed by instantiating new Variables in the momvement program<br>
+**Activity:** Instructor and Students tune border detection behavior manipulate using If/Then logic expressions<br>
+**Activity:** Students create flow chart with Instructor to design roaming behavior and implement the design in the movement program<br>
+**Activity:** Instructor and Students control position with the Gyro and Compass with For Loops and While Loops 
 
 ###Equipment###
 * Laptop for Instructor with Arduino IDE and internet access
