@@ -4,10 +4,10 @@
 ####_**Objective: Students load and manipulate a simple program that moves the Robot back and forth within a boundary line**_
 **Activity:** Students follow along with Instructor to add roaming behavior to the simple movement program<br>
 
-###Lecture: "Intro to Programming with C and Python" (30min)
+###Lecture: Intro to Programming with C and Python (30min)
 ####_**Objective: Students understand fundamental programming concepts: Expressions, Syntax**_
 **Activity:** Instructor explains Expressions, Syntax, provides live examples with the C and Python programming languages<br>
-**Activity:** Students identify invalid Expressions invalid Syntax in short exercise with the IDE
+**Activity:** Students identify invalid Expressions and invalid Syntax in a short exercise with the IDE
 
 ###Lab: Turn the Robot, Speed control, Positioning with the Gyro and Compass. (45min)
 ####_**Objective: Students work with Variables, If/Then logic and Loops to add turning, speed control and positioning behavior to the movement program from the first lab**_
