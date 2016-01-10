@@ -40,7 +40,7 @@ _**Activity:** Students get familiar with the process of compiling and uploading
 * Markerboard
 * Laptop for each student with Arduino IDE
 * LCD library, Robot-Name source code [link to github here]
-* Zumo Robot with LCD Screen for instructor one for each student pair
+* Zumo Robot with LCD Screen for instructor, one for each student pair
 * Micro USB Serial Cable for each Robot
 
 <sup><sub>*BPL001 Introduction to Robotics by Carlos Ambrozak* is licensed under a Creative Commons Attribution 4.0 International License.</sub></sup>
