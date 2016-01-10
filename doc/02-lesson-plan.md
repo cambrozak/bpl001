@@ -21,9 +21,9 @@
 * Audio, Video, Projector and necessary laptop cables
 * Markerboard
 * Laptop for each student with Arduino IDE
-* Zumo Motor library, source code [link to github here]
+* Motor, Compass, Gyro libraries, source code [link to github here]
 * Zumo Robot, one for each student pair
 * Micro USB Serial Cable for each Robot
-* Painters Tap for edge boundaries
+* Painters Tape for edge boundaries
 
 <sup><sub>*BPL001 Introduction to Robotics by Carlos Ambrozak* is licensed under a Creative Commons Attribution 4.0 International License.</sub></sup>
