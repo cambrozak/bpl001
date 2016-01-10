@@ -1,4 +1,4 @@
-#Session Three: Line Following, More Programming, Debugging
+#Session Three: Line Following, More Programming, The Art of Debugging
 
 ###Lab: Line Following (15min)
 ####_**Objective: Students load and manipulate a simple program that uses Phototransistor inputs to follow lines**_
@@ -15,7 +15,7 @@
 ####_**Objective: Students empowered with Debugging Heuristics and view Debugging as a Learning Opportunity**_
 **Activity:** Instructor presents an attitude towards Debugging as a Learning Opportunity vs the common DABDA Response<br>
 **Activity:** Instructor and Students discuss complementary Heuristics: Murphy's Law, Sherlock's Law<br>
-**Activity:** Instructor and Students debug broken flashlights, diagnoses are logged on the board and extrapolated into a General Debug Checklist
+**Activity:** Instructor and Students debug broken flashlights.  Diagnoses are logged on the board and extrapolated into a General Debug Checklist
 
 ###Lab: Debugging in Practice (45min)
 ####_**Objective: Students extend the General Debug Checklist by debugging various scenarios on the Robot with the IDE and Simulator**_
@@ -35,10 +35,10 @@ General Debug Checklist (completed version)
 
 **Environment**
 - [ ] Is the IDE configured correctly?
-- [ ] Is the Operating System running the IDE properlty?
+- [ ] Is the Operating System running the IDE properly?
 
 **Electrical** (Mentioned, but not covered by this course)
-- [ ] Multimeter, Oscilliscope, Logic Analyzer
+- [ ] Multimeter, Oscilloscope, Logic Analyzer
 
 ###Equipment###
 * Laptop for Instructor with Arduino IDE and internet access
