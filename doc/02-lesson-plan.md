@@ -11,7 +11,6 @@ back and forth within a boundary line**_####
 **Activity:** Students identify invalid Expressions invalid Syntax in short exercise with the IDE
 
 ###Lab: Turn the Robot, Speed control, Positioning with the Gyro and Compass. (45min)
-####_**Objective: Students **_####
 ####_**Objective: Students work with Variables, If/Then logic and Loops to add turning, speed control and positioning behavior to the movement program from the first lab**_####
 **Activity:** Students follow along with Instructor to add roaming behavior to the movement program<br>
 **Activity:** Instructor and Students instantiate new Variables in the momvement program to adjust speed<br>
