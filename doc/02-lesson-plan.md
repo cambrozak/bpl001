@@ -1,8 +1,7 @@
 #Session Two: Intro to Programming, Movement with Motors
 
 ###Lab: Move the Robot, Edge Detection, Program motor control using libraries & APIs (15min)
-####_**Objective: Students load and manipulate a simple program that moves the Robot
-back and forth within a boundary line**_####
+####_**Objective: Students load and manipulate a simple program that moves the Robot back and forth within a boundary line**_####
 **Activity:** Students follow along with Instructor to add roaming behavior to the simple movement program<br>
 
 ###Lecture: "Intro to Programming with C and Python" (30min)
