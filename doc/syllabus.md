@@ -81,20 +81,20 @@ by combining the first lab with previous learning.
 
 ###_Session One: Introductions, Orientation, First Program_
 
-**Lecture:**  What's a Robot?  Hi-Tech Learning<br>
-**Lab:**  Give the Robot a name.  Edit, compile and load a program, LCD and Audio output.  Save code in GitHub.
+**Lecture:** Robots Declassified -- What's a Robot?<br>
+**Lab:** First Program -- Name the Robot and display on LCD
 
-###_Session Two: Programming, Positioning, Motors_
+###_Session Two: Introduction to Programming, Movement with Motors, Positioning with Compass and Gyroscope_
 
-**Lab:** Move the Robot, Edge Detection, Program motor control using libraries & APIs.<br>
-**Lecture:** Expressions, Syntax, Variables, if/then, loops<br>
-**Lab:** Turn the Robot, Speed control, positioning with the gyro and compass.
+**Lab:** Move the Robot, Edge Detection, Program motor control using libraries & APIs<br>
+**Lecture:** Introduction to Programming with C and Python<br>
+**Lab:** Turn the Robot, Speed control, Positioning with the Gyro and Compass
 
-###_Session Three: Programming, Debugging, Line Following_
+###_Session Three: Line Following, More Programming, The Art of Debugging_
 
-**Lab:** Line following.  Program processing of IR LED/Phototransistor inputs.<br>
-**Lecture:** Scope, Functions, High Level vs. Low Level Languages, The Art of Debugging<br>
-**Lab:** Step-Thru Debugging with Simulator for Arduino
+**Lab:** Line following, IR LED/Phototransistor input processing<br>
+**Lecture:** Scope, Functions, The Art of Debugging<br>
+**Lab:** Debugging in Practice, IDE, Simulator for Arduino
 
 ###_Session Four: Electricity, Circuits_
 
