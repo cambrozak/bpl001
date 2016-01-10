@@ -31,7 +31,7 @@ https://www.youtube.com/watch?v=AvBMGd67dWQ<br>
 ###Lab: First Program -- Name the Robot (30min)
 ####_**Objective:** Students edit and upload a program to the Robot that displays its name on the LCD screen_####
 _**Activity:** Students learn how to obtain libraries and programs_<br>
-_**Activity:** Students get acquainted with the IDE by loading the LCD library, viewing and editing the robot name program_<br>
+_**Activity:** Students get acquainted with the IDE by loading the LCD library and editing the robot name program_<br>
 _**Activity:** Students get familiar with the process of compiling and uploading code to the Robot_<br>
 
 ###Equipment###
