@@ -1,16 +1,16 @@
 #Session Two: Intro to Programming, Movement with Motors
 
 ###Lab: Move the Robot, Edge Detection, Program motor control using libraries & APIs (15min)
-####_**Objective: Students load and manipulate a simple program that moves the Robot back and forth within a boundary line**_####
+####_**Objective: Students load and manipulate a simple program that moves the Robot back and forth within a boundary line**_
 **Activity:** Students follow along with Instructor to add roaming behavior to the simple movement program<br>
 
 ###Lecture: "Intro to Programming with C and Python" (30min)
-####_**Objective:** Students understand fundamental programming concepts: Expressions, Syntax**_####
-**Activity:** Instructor explains Expressions, Syntax, provides live examples with the C and Python programming languages
+####_**Objective: Students understand fundamental programming concepts: Expressions, Syntax**_
+**Activity:** Instructor explains Expressions, Syntax, provides live examples with the C and Python programming languages<br>
 **Activity:** Students identify invalid Expressions invalid Syntax in short exercise with the IDE
 
 ###Lab: Turn the Robot, Speed control, Positioning with the Gyro and Compass. (45min)
-####_**Objective: Students work with Variables, If/Then logic and Loops to add turning, speed control and positioning behavior to the movement program from the first lab**_####
+####_**Objective: Students work with Variables, If/Then logic and Loops to add turning, speed control and positioning behavior to the movement program from the first lab**_
 **Activity:** Students follow along with Instructor to add roaming behavior to the movement program<br>
 **Activity:** Instructor and Students instantiate new Variables in the momvement program to adjust speed<br>
 **Activity:** Instructor and Students manipulate If/Then statements to adjust border detection behavior<br>
