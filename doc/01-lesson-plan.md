@@ -34,4 +34,16 @@ _**Activity:** Students learn how to obtain libraries and programs_<br>
 _**Activity:** Students get acquainted with the IDE by loading the LCD library, viewing and editing the robot name program_<br>
 _**Activity:** Students get familiar with the process of compiling and uploading code to the Robot_<br>
 
+###Equipment###
+Audio, Video, Projector
+Markerboard
+Laptop with Arduino IDE
+LCD Lib, Robot-Name Source Code [link to github here]
+Zumo Robot with LCD Screen
+Micro USB Serial Cable for each Robot
+
+
+
+
+
 <sup><sub>*BPL001 Introduction to Robotics by Carlos Ambrozak* is licensed under a Creative Commons Attribution 4.0 International License.</sub></sup>
