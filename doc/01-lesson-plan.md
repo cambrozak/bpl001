@@ -10,9 +10,9 @@ https://www.youtube.com/watch?v=REEzJfGRaZE
 ####_**Objective:** Students understand class scope, lab-lecture-lab format, rules of conduct and how to handle delicate equipment_####
 **Activity:** Instructor and Students read syllabus together, clarify with questions.
 
-###Lecture: "What's a Robot?" (15min)
-####_**Objective:** Students define the term **Autonomous Robot** and understand what makes it different from other robotics applications; **Augmenting**, **Teleoperated**, **Sationary Preprogrammed**_####
-**Activity:**  Students view short video examples of Augmenting, Teleoperated, Stationary Preprogrammed and Autonomous Robots.  Instructor leads students in an open discussion to define the characteristics of each type.  Instructor writes characteristics for each in four lists on the board as they are discussed by Students.
+###Lecture: "Robots Declassified -- What's a Robot?" (15min)
+####_**Objective:** Students define the term **Autonomous Robot** and understand what makes it different from other robotics applications **Augmenting**, **Teleoperated** and **Sationary-Preprogrammed**_####
+**Activity:**  Students view short video examples of Augmenting, Teleoperated, Stationary-Preprogrammed and Autonomous Robots.  Instructor leads students in an open discussion to define the characteristics of each type based on video observations.  Instructor writes characteristics for each in four lists on the board as they are discussed by Students.
 
 Augmenting<br>
 http://www.mind.ilstu.edu/curriculum/medical_robotics/augmenting.php
@@ -28,8 +28,8 @@ https://www.youtube.com/watch?v=UtBa9yVZBJM<br>
 https://www.youtube.com/watch?v=ZprJHzpmsLk<br>
 https://www.youtube.com/watch?v=AvBMGd67dWQ<br>
 
-###Lab: First Program (30min)
-_**Objective:** Students upload a program to the Robot that displays a name on the LCD_<br>
+###Lab: First Program -- Name the Robot(30min)
+####_**Objective:** Students upload a program to the Robot that displays its name on the LCD_####
 _**Activity:** Students learn how to obtain libraries and programs from GitHub_<br>
 _**Activity:** Students learn how to load and edit a program with an IDE_<br>
 _**Activity:** Students modify the program to provide a unique custom name for the Robot_<br>
