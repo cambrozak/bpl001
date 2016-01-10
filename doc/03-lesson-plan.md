@@ -23,9 +23,9 @@
 General Debug Checklist (completed version)
 
 **Hardware**
-[] Power:  Is power on?  Are batteries charged?
-[ ] Mechanics: Are moving parts inhibited?
-[ ] Components: Are components visibly fried or broken?
+- [ ] Power:  Is power on?  Are batteries charged?
+- [ ] Mechanics: Are moving parts inhibited?
+- [ ] Components: Are components visibly fried or broken?
 
 **Software**
 [ ] Upload: Is the software loaded?
