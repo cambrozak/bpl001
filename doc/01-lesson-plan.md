@@ -12,8 +12,8 @@ _**Objective:** Students understand the lab-lecture-lab format, rules of conduct
 **Activity:** Instructor and Students read the syllabus together, clarify with questions.
 
 ###Lecture: "What's a Robot?" (15min)
-_**Objective:** Students define the term Autonomous Robot and understand what makes it different from other types of robotics applications; Augmenting, Teleoperated, Sationary Preprogrammed_<br>
-**Activity:**  Students view video examples of Augmenting, Teleoperated, Stationary Preprogrammed and Autonomous Robots and define the characteristics of each type in an open discussion.  Instructor writes characteristics for each in four lists on the board as they are discovered through Student discussion. 
+_**Objective:** Students define the term Autonomous Robot and understand what makes it different from other robotics applications; Augmenting, Teleoperated, Sationary Preprogrammed_<br>
+**Activity:**  Students view video examples of Augmenting, Teleoperated, Stationary Preprogrammed and Autonomous Robots and define the characteristics of each type in an open discussion.  Instructor writes characteristics for each in four lists on the board as they are discussed by Students. 
 
 Augmenting
 http://www.mind.ilstu.edu/curriculum/medical_robotics/augmenting.php
@@ -22,10 +22,12 @@ Teleoperated<br>
 https://www.youtube.com/watch?v=3F2ZTZXwvFY
 
 Stationary Preprogrammed<br>
-
+https://www.youtube.com/watch?v=SOESSCXGhFo
 
 Autonomous<br>
-
+https://www.youtube.com/watch?v=UtBa9yVZBJM
+https://www.youtube.com/watch?v=ZprJHzpmsLk
+https://www.youtube.com/watch?v=AvBMGd67dWQ
 
 
 ###Lab: First Program (30min)
