@@ -28,17 +28,17 @@ General Debug Checklist (completed version)
 - [ ] Components: Are components visibly fried or broken?
 
 **Software**
-[ ] Upload: Is the software loaded?
-[ ] Bottom Up: Is a stack trace available?
-[ ] Top Down: Divide and conquer the code path with debug statements to isolate problem area 
-[ ] Step Through: Use IDE and/or Simulator to step through code execution
+- [ ] Upload: Is the software loaded?
+- [ ] Bottom Up: Is a stack trace available?
+- [ ] Top Down: Divide and conquer the code path with debug statements to isolate problem area 
+- [ ] Step Through: Use IDE and/or Simulator to step through code execution
 
 **Environment**
-[ ] Is the IDE configured correctly?
-[ ] Is the Operating System running the IDE properlty?
+- [ ] Is the IDE configured correctly?
+- [ ] Is the Operating System running the IDE properlty?
 
 **Electrical** (Mentioned, but not covered by this course)
-[ ] Multimeter, Oscilliscope, Logic Analyzer
+- [ ] Multimeter, Oscilliscope, Logic Analyzer
 
 ###Equipment###
 * Laptop for Instructor with Arduino IDE and internet access
