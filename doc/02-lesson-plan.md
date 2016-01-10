@@ -14,7 +14,7 @@
 **Activity:** Instructor and Students adjust speed by instantiating new Variables in the momvement program<br>
 **Activity:** Instructor and Students tune border detection behavior manipulate using If/Then logic expressions<br>
 **Activity:** Students create flow chart with Instructor to design roaming behavior and implement the design in the movement program<br>
-**Activity:** Instructor and Students control position with the Gyro and Compass with For Loops and While Loops 
+**Activity:** Instructor and Students control position with the Gyro and Compass using For Loops and While Loops 
 
 ###Equipment###
 * Laptop for Instructor with Arduino IDE and internet access
