@@ -30,8 +30,8 @@ https://www.youtube.com/watch?v=AvBMGd67dWQ<br>
 
 ###Lab: First Program -- Name the Robot(30min)
 ####_**Objective:** Students upload a program to the Robot that displays its name on the LCD_####
-_**Activity:** Students learn how to obtain libraries and programs from GitHub_<br>
-_**Activity:** Students learn how to load and edit a program with an IDE_<br>
-_**Activity:** Students modify the program to provide a unique custom name for the Robot_<br>
+_**Activity:** Students learn how to obtain libraries and programs_<br>
+_**Activity:** Students get acquainted with the IDE by loading the LCD library, viewing and editing the robot name program_<br>
+_**Activity:** Students get familiar with the process of compiling and uploading code to the Robot_<br>
 
 <sup><sub>*BPL001 Introduction to Robotics by Carlos Ambrozak* is licensed under a Creative Commons Attribution 4.0 International License.</sub></sup>
