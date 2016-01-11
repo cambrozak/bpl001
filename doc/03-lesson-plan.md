@@ -15,10 +15,10 @@
 ####_**Objective: Students empowered with Debugging Heuristics and view Debugging as a Learning Opportunity**_
 **Activity:** Instructor presents an attitude towards Debugging as a Learning Opportunity vs the common DABDA Response<br>
 **Activity:** Instructor and Students discuss complementary Heuristics: Murphy's Law, Sherlock's Law<br>
-**Activity:** Instructor and Students debug broken flashlights.  Diagnoses are logged on the board and extrapolated into a General Debug Checklist
+**Activity:** Instructor and Students apply Murphy's and Sherlock's Laws to the Robot platform and extrapolate a General Debug Checklist
 
 ###Lab: Debugging in Practice (45min)
-####_**Objective: Students extend the General Debug Checklist by troubleshooting the Line Following program from the first lab with the IDE and Simulator**_
+####_**Objective: Students extend the General Debug Checklist by troubleshooting hidden bugs the Line Following program from the first lab with the IDE and Simulator**_
 
 General Debug Checklist (completed version)
 
