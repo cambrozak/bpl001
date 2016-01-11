@@ -18,7 +18,7 @@
 **Activity:** Instructor and Students debug broken flashlights.  Diagnoses are logged on the board and extrapolated into a General Debug Checklist
 
 ###Lab: Debugging in Practice (45min)
-####_**Objective: Students extend the General Debug Checklist by debugging various scenarios on the Robot with the IDE and Simulator**_
+####_**Objective: Students extend the General Debug Checklist by troubleshooting the Line Following program from the first lab with the IDE and Simulator**_
 
 General Debug Checklist (completed version)
 
