@@ -9,7 +9,7 @@
 
 ###Lecture: Introduction to Electricity -- Electrons, Current, Voltage, Series, Parallel, Ground (30min)
 ####_Objective: Students have a basic understanding of Electrons, Current, Voltage, Series, Parallel, Resistance, Ground_
-**Activity:** Instructor defines demonstrates the relationship between Electrons, Current, Voltage, Resistance and Ground using a simple marble run model<br>
+**Activity:** Instructor defines and demonstrates the relationship between Electrons, Current, Voltage, Resistance and Ground using a simple marble run model<br>
 **Activity:** Students understand the atomic scale at which electron flow takes place by
 viewing the second part of Eames film, [Powers of Ten](https://youtu.be/0fKBhvDjuy0?t=351)<br>
 **Activity:**  Instructor defines Ground, Series and Parrallel with examples drawn on the board
