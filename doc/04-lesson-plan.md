@@ -12,7 +12,7 @@
 **Activity:** Instructor defines and demonstrates the relationship between Electrons, Current, Voltage, Resistance and Ground using a simple marble run model<br>
 **Activity:** Students understand the atomic scale at which electron flow takes place by
 viewing the second part of Eames film, [Powers of Ten](https://youtu.be/0fKBhvDjuy0?t=351)<br>
-**Activity:**  Instructor defines Ground, Series and Parrallel with examples drawn on the board
+**Activity:**  Instructor defines Ground, Series and Parallel with examples drawn on the board
 
 ###Lab: Series, Parallel, Ground, Circuit Debugging (30min)
 ####_Objective: Students get hands-on experience with Series/Parallel circuits and debugging three common types of circuit failures: Shorts, Grounded, Open_
