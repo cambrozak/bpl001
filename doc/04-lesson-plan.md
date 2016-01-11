@@ -18,7 +18,6 @@ viewing the second part of Eames film, [Powers of Ten](https://youtu.be/0fKBhvDj
 ####_Objective: Students get hands-on experience with Series/Parallel circuits and debugging three common types of circuit failures: Shorts, Grounded, Open_
 **Activity:** Students pair up and connect their batteries in series and parrallel, use a Multimeter to observe Voltage and Current changes<br>
 **Activity:** Students follow along with Instructor to construct a reference circuit on a breadboard<br>
-**Activity:** Students lear definition of Short Circuit, Grounded Circuit and Open Circuit<br>
 **Activity:** Students get familiar with three common circuit failure modes by
 shorting, grounding and opening their reference circuits on purpose, observing and measuring with a Multimeter
 
@@ -31,7 +30,7 @@ shorting, grounding and opening their reference circuits on purpose, observing a
 * Zumo bot for each student
 * Micro USB Serial Cable for each Robot
 * Voltaic Pile Kit for each Student -- zinc washers, copper discs, felt discs, petri dish, vinegar, tweezers, battery case, LED
-* Circuit Kit for each Student -- breadboard, LEDs, resistors, use power pin on Zumo (?9V battery safer)
+* Circuit Kit for each Student -- breadboard, LEDs, resistors
 * Multimeter
 
 <sup><sub>*BPL001 Introduction to Robotics by Carlos Ambrozak* is licensed under a Creative Commons Attribution 4.0 International License.</sub></sup>
