@@ -37,8 +37,9 @@ General Debug Checklist (completed version)
 - [ ] Is the IDE configured correctly?
 - [ ] Is the Operating System running the IDE properly?
 
-**Electrical** (Mentioned, but not covered by this course)
-- [ ] Multimeter, Oscilloscope, Logic Analyzer
+**Electrical** 
+- [ ] Short Circuits, Open Circuits, Grounded Circuits (covered in next class)
+- [ ] Multimeter, Oscilloscope, Logic Analyzer (mentioned but not covered)
 
 ###Equipment###
 * Laptop for Instructor with Arduino IDE and internet access
