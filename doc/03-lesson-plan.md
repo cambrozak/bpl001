@@ -30,7 +30,7 @@ General Debug Checklist (completed version)
 **Software**
 - [ ] Upload: Is the software loaded?
 - [ ] Bottom Up: Is a stack trace available?
-- [ ] Top Down: Divide and conquer the code path with debug statements to isolate problem area 
+- [ ] Top Down: Divide and conquer the execution path with debug statements to isolate problem area 
 - [ ] Step Through: Use IDE and/or Simulator to step through code execution
 
 **Environment**
