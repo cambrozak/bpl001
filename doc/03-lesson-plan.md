@@ -51,6 +51,5 @@ General Debug Checklist (completed version)
 * Zumo Robot, one for each student pair
 * Micro USB Serial Cable for each Robot
 * Painters Tape for mazes and edge boundaries
-* Broken flashlights for debugging lecture
 
 <sup><sub>*BPL001 Introduction to Robotics by Carlos Ambrozak* is licensed under a Creative Commons Attribution 4.0 International License.</sub></sup>
