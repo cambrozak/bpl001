@@ -36,6 +36,7 @@ General Debug Checklist (completed version)
 **Environment**
 - [ ] Is the IDE configured correctly?
 - [ ] Is the Operating System running the IDE properly?
+- [ ] Do files and directories have the right permission settings?
 
 **Electrical** 
 - [ ] Short Circuits, Open Circuits, Grounded Circuits (covered in next class)
