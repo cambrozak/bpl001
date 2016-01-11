@@ -1,10 +1,10 @@
 #Session Four: Electricity, Circuits
 
 ###Lab: Build a Battery (30min)
-####_**Objective: Students construct a battery from common components**_
+####_Objective: Students construct a battery from common components_
 **Activity:** Students follow along with Instructor to build a small Voltaic Pile battery using basic cells composed of copper discs, zinc washers and vinegar pads<br>
 **Activity:** Students use a Multimeter to observe Voltage and Current changes with the addition of each voltaic cell to the pile<br>
-**Activity:** Students use their custom made battery to light LEDs<b>
+**Activity:** Students use their custom made battery to light LEDs
 
 
 ###Lecture: Introduction to Electricity -- Electrons, Current, Voltage, Series, Parallel, Ground (30min)
