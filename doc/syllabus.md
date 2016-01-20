@@ -55,7 +55,7 @@ This course takes a holistic approach to learning styles
 by presenting the subject in a broad top-down manner
 and filling in bottom-up details with applicable hands-on laboratory exercises.
 
-This approach enables beggining students to engage all learning modes, learn through experience and become effective with the technology immediately.
+This approach enables beginning students to engage all learning modes, learn through experience and become effective with the technology immediately.
 
 ##Class Format
 Each classroom session follows a *Lab-Lecture-Lab* format:
