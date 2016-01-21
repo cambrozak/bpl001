@@ -43,9 +43,9 @@ None!  This class is for motivated beginners.
 
 * Have Fun!
 * Write lots of programs to provide a robot with interesting autonomous behaviours
-* Understand the fundamentals of electricity and circuits
+* Demonstrate basic understanding of electricity and electronic circuits
 * Hands-on experience with robot hardware: embedded systems, LCDs, sensors, gyros, accelerometers, motors, servos, cameras
-* Connect concepts to robots in the real world 
+* Relate concepts to robots in the real world 
 
 ##Teaching and Learning Styles
 
@@ -66,7 +66,7 @@ connect components to the Robot and observe resulting physical behavior.
 The sesssion does not proceed until every Robot is performing as expected.
 
 A short lecture explains how and why the lab exercise worked and answers open questions.
-The lecture also connects the lab exercise to examples in the real world.
+The lecture also relates the lab exercise to examples in the real world.
 
 A final lab exercise challenges students to implement their own original ideas
 by combining the first lab with previous learning.
