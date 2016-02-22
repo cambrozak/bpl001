@@ -37,10 +37,10 @@ https://www.youtube.com/watch?v=AvBMGd67dWQ<br>
 **Bonus Activity:**  Students learn about memory architectures, volatile vs. nonvolatile, Program, SRAM, EEPROM<br>
 
 ###Reference###
-Zumo User's Guide - https://www.pololu.com/docs/0J63/all
-LCD API - http://pololu.github.io/zumo-32u4-arduino-library/class_pololu_h_d44780_base.html
-LCD data sheet - https://www.pololu.com/file/0J72/HD44780.pdf
-LCD CCG - https://omerk.github.io/lcdchargen/
+Zumo User's Guide - https://www.pololu.com/docs/0J63/all<br>
+LCD API - http://pololu.github.io/zumo-32u4-arduino-library/class_pololu_h_d44780_base.html<br>
+LCD data sheet - https://www.pololu.com/file/0J72/HD44780.pdf<br>
+LCD CCG - https://omerk.github.io/lcdchargen/<br>
 
 ###Equipment###
 * Laptop for Instructor with Arduino IDE and internet access
