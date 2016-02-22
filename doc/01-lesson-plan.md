@@ -33,6 +33,14 @@ https://www.youtube.com/watch?v=AvBMGd67dWQ<br>
 **Activity:** Students learn how to obtain libraries and programs<br>
 **Activity:** Students get acquainted with the IDE by loading the LCD library and editing the robot name program<br>
 **Activity:** Students get familiar with the process of compiling and uploading code to the Robot<br>
+**Bonus Activity:**  Students generate custom LCD characters<br>
+**Bonus Activity:**  Students learn about memory architectures, volatile vs. nonvolatile, Program, SRAM, EEPROM<br>
+
+###Reference###
+Zumo User's Guide - https://www.pololu.com/docs/0J63/all
+LCD API - http://pololu.github.io/zumo-32u4-arduino-library/class_pololu_h_d44780_base.html
+LCD data sheet - https://www.pololu.com/file/0J72/HD44780.pdf
+LCD CCG - https://omerk.github.io/lcdchargen/
 
 ###Equipment###
 * Laptop for Instructor with Arduino IDE and internet access
