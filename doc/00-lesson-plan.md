@@ -41,7 +41,7 @@ File > Examples > Zumo 32U4 > BuzzerBasics
 ##Reminder for Students
 Students should now be able to load programs without issue.  They may need to manually set the target Board and Port occassionaly.
 
-Write this reminder on the board at the beginning of each session:<br><br>
+Write this reminder on the board at the beginning of each session:
 
 **Tools > Board > Pololu A-Star 32U4**
 
