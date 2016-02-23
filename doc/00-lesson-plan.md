@@ -25,7 +25,7 @@ Be mindful of the first-time issues noted in this step.<br><br>
 https://www.pololu.com/docs/0J63/all#5.2
 
 ##Update Zumo Libraries
-The Zumo examples will appear in the main menu dropdowns once this step is complete.
+The Zumo examples will appear in the Examples menu once this step is complete.
 
 1. Run the Arduino IDE
 2. Open the Library Mangeger from the main menu: Sketch > Include Library... > Manage Libraries
@@ -33,7 +33,7 @@ The Zumo examples will appear in the main menu dropdowns once this step is compl
 4. Click the Zumo32U4 Arduino Library, an Install button appears, click it.
 5. Click the 'Close' button on the bottom right corner.
 
-Confirm that the libraries are loaded by openingthe Examples from the main menu: File > Examples > Zumo32U4
+Confirm that the libraries are loaded by opening the Examples from the main menu: File > Examples > Zumo32U4
 
 ##Load a Zumo Test Example
 File > Examples > Zumo 32U4 > BuzzerBasics
@@ -43,8 +43,8 @@ Students should now be able to load programs without issue.
 
 Write this reminder on the board at the beginning of each to confirm that the proper Port and target Board are selected:<br><br>
 
-Tools > Board > Pololu A-Star 32U4<br><br>
+**Tools > Board > Pololu A-Star 32U4**
 
-Tools > Port > COMX
+**Tools > Port > COMX**
 
 <sup><sub>*BPL001 Introduction to Robotics by Carlos Ambrozak* is licensed under a Creative Commons Attribution 4.0 International License.</sub></sup>
