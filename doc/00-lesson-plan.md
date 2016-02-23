@@ -46,6 +46,10 @@ Students should now be able to load programs without issue.  They may need to ma
 
 Write this reminder on the board at the beginning of each session:
 
+**Login as 'Patron' user
+
+**Plug Robot into USB 2.0 Port (rear left on the laptop)
+
 **Tools > Board > Pololu A-Star 32U4**
 
 **Tools > Port > COMX**
