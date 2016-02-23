@@ -1,6 +1,5 @@
 #Session Zero: Development Environment Setup
 
-
 It is recommended that setup is completed by the instructor
 on all lab machines before the first day of class so that problems
 with hardware and software are identified and fixed without cutting into
@@ -17,13 +16,13 @@ https://www.arduino.cc/en/Main/Software
 
 ##Install A-Star Drivers
 Zumo 32U4 requires specific drivers for Windows<br>
-https://www.pololu.com/docs/0J63/all#5<br><br>
+https://www.pololu.com/docs/0J63/all#5
 
 Be sure to extract all files from the zip archive on Windows 7 before attempting to right-click/install.
 
 ##Install Zumo Libraries and Load the Test Blink Program
 Be mindful of the first-time issues noted in this step.<br><br>
-https://www.pololu.com/docs/0J63/all#5.2<br><br>
+https://www.pololu.com/docs/0J63/all#5.2
 
 ##Update Zumo Libraries
 The Zumo examples will appear in the main menu dropdowns once this step is complete.
@@ -40,13 +39,12 @@ Confirm that the libraries are loaded by openingthe Examples from the main menu:
 File > Examples > Zumo 32U4 > BuzzerBasics
 
 ##Reminder for Students
-Students should now be able to load programs without issue.<br>
+Students should now be able to load programs without issue.
 
-Remind them to confirm that the proper Port and target Board are selected.  Write this on the board:<br><br>
+Write this reminder on the board at the beginning of each to confirm that the proper Port and target Board are selected:<br><br>
 
 Tools > Board > Pololu A-Star 32U4<br><br>
 
 Tools > Port > COMX
-
 
 <sup><sub>*BPL001 Introduction to Robotics by Carlos Ambrozak* is licensed under a Creative Commons Attribution 4.0 International License.</sub></sup>
