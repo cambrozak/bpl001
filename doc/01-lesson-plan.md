@@ -38,6 +38,9 @@ https://www.youtube.com/watch?v=AvBMGd67dWQ<br>
 **Bonus Activity:**  Students generate custom LCD characters<br>
 **Bonus Activity:**  Students learn about memory architectures, volatile vs. nonvolatile, Program, SRAM, EEPROM<br>
 
+###Source Code###
+https://github.com/cambrozak/bpl001/tree/master/session-01<br>
+
 ###Reference###
 Zumo User's Guide - https://www.pololu.com/docs/0J63/all<br>
 LCD API - http://pololu.github.io/zumo-32u4-arduino-library/class_pololu_h_d44780_base.html<br>
@@ -45,11 +48,9 @@ LCD data sheet - https://www.pololu.com/file/0J72/HD44780.pdf<br>
 LCD CCG - https://omerk.github.io/lcdchargen/<br>
 
 ###Equipment###
-* Laptop for Instructor with Arduino IDE and internet access
+* Laptop for each student with internet access
 * Audio, Video, Projector and necessary laptop cables
 * Markerboard
-* Laptop for each student with Arduino IDE
-* LCD library, Robot-Name source code [link to github here]
 * Zumo Robot with LCD Screen for instructor, one for each student pair
 * Micro USB Serial Cable for each Robot
 
