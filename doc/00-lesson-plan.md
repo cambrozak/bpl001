@@ -8,7 +8,7 @@ valuable student class time.
 ##Verify USB Ports
 Lab machines must provide at least one Standard USB 2.0 port, two is ideal.
 
-USB 3.0 and 'high power' ports will not work.
+USB 3.0 and 'high power' ports will power the Zumo, but will not upload code.
 
 ##Install IDE
 Arduino IDE Download and instructions<br>
