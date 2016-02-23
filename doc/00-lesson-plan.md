@@ -42,7 +42,7 @@ Confirm that the libraries are loaded by opening the Examples from the main menu
 File > Examples > Zumo 32U4 > BuzzerBasics
 
 ##Reminder for Students
-Students should now be able to load programs without issue.  They may need to manually set the target Board and Port occassionaly.
+Students should now be able to load programs without issue.  They may need to manually set the target Board and Port occassionally.
 
 Write this reminder on the board at the beginning of each session:
 
