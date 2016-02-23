@@ -15,7 +15,7 @@ https://www.youtube.com/watch?v=REEzJfGRaZE
 **Activity:**  Students view short video examples of Augmenting, Teleoperated, Stationary-Preprogrammed and Autonomous Robots.  Instructor leads students in an open discussion to define the characteristics of each type based on video observations.  Instructor writes characteristics for each in four lists on the board as they are discussed by Students.
 
 Augmenting<br>
-http://www.mind.ilstu.edu/curriculum/medical_robotics/augmenting.php
+https://www.youtube.com/watch?v=kQ0RBLKkZjY
 
 Teleoperated<br>
 https://www.youtube.com/watch?v=3F2ZTZXwvFY
