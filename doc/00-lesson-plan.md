@@ -33,7 +33,7 @@ The Zumo examples will appear in the Examples menu once this step is complete.
 1. Run the Arduino IDE
 2. Open the Library Mangeger from the main menu: Sketch > Include Library... > Manage Libraries
 3. Search for 'zumo'
-4. Click the Zumo32U4 Arduino Library, an Install button appears, click it.
+4. Click the Zumo32U4 Arduino Library, an 'Install' button appears, click it.
 5. Click the 'Close' button on the bottom right corner.
 
 Confirm that the libraries are loaded by opening the Examples from the main menu: File > Examples > Zumo32U4
