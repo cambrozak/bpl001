@@ -5,6 +5,11 @@ on all lab machines before the first day of class so that problems
 with hardware and software are identified and fixed without cutting into
 valuable student class time.
 
+Environment setup is an important learning moment for experienced and novice
+programmers alike, however, this course will defer this information to the
+session that focuses on debugging and troubleshooting in order to get
+students loading programs on the robot right away.
+
 ##Verify USB Ports
 Lab machines must provide at least one Standard USB 2.0 port, two is ideal.
 
