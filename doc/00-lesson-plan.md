@@ -10,7 +10,7 @@ Lab machines must provide at least one Standard USB 2.0 port, two is ideal.
 
 USB 3.0 and 'high power' ports will power the Zumo, but will not upload code.
 
-##Setup a consistent User Profile
+##Use a Consistent User Profile
 The 'Patron' User Profile will be used by students, be sure to perform these setup steps as the Patron user.
 
 ##Install IDE
