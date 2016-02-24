@@ -6,7 +6,7 @@ with hardware and software are identified and fixed without cutting into
 valuable student class time.
 
 Environment setup is an important learning moment for experienced and novice
-programmers alike, however, this course will defer this information to the
+programmers alike.  However, This course defers on this topic to the
 session that focuses on debugging and troubleshooting in order to get
 students loading programs on the robot right away.
 
