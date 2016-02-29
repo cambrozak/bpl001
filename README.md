@@ -1,6 +1,4 @@
 # BPL001
-test
-
 Burlingame Public Library Introduction to Robotics Class
 
 ## License & Copyright
