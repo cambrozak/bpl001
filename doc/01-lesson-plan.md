@@ -36,6 +36,7 @@ https://www.youtube.com/watch?v=AvBMGd67dWQ<br>
 **Activity:** Students get acquainted with the IDE by loading the LCD library and editing the robot name program<br>
 **Activity:** Students get familiar with the process of compiling and uploading code to the Robot<br>
 **Bonus Activity:**  Students generate custom LCD characters<br>
+**Bonus Activity:**  Students create animation scenes on the LCD<br>
 **Bonus Activity:**  Students learn about memory architectures, volatile vs. nonvolatile, Program, SRAM, EEPROM<br>
 
 ###Source Code###
