@@ -108,7 +108,7 @@ void loop() {
   }
 }
 
-// display a sreen of uneaten pellets
+// display a screen of uneaten pellets
 void showUneatenPelletScreen() {
   lcd.clear();
   printUneatenPelletRow();
