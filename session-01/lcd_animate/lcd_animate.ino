@@ -118,7 +118,7 @@ void showUneatenPelletScreen() {
 
 // display a single row of uneaten pellets
 void printUneatenPelletRow() {
-  for (int i = 0; i < 8; i++) {
+  for (int i = 0; i < MAX_COLUMNS; i++) {
     lcd.print((char) PELLET_SPRITE_ADDRESS);
   }
 }
