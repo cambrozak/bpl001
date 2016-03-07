@@ -82,7 +82,7 @@ by combining the first lab with previous learning.
 ###_Session One: Introductions, Orientation, First Program_
 
 **Lecture:** Robots Declassified -- What's a Robot?<br>
-**Lab:** First Program -- Name the Robot and display on LCD
+**Lab:** First Program -- Name the Robot and display on LCD<br>
 **Lab:** LCD Animation with custom character sprites
 
 ###_Session Two: Introduction to Programming, Movement with Motors_
@@ -93,7 +93,7 @@ by combining the first lab with previous learning.
 
 ###_Session Three: Positioning with Compass and Gyroscope, More Programming, The Art of Debugging_
 
-**Lab:** Improved Autonomous Roaming with Compass and Gyro Positioning
+**Lab:** Improved Autonomous Roaming with Compass and Gyro Positioning<br>
 **Lecture:** Scope, Functions, The Art of Debugging<br>
 **Lab:** Debugging in Practice, IDE, Simulator for Arduino
 
