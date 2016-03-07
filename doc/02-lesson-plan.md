@@ -1,7 +1,7 @@
 #Session Two: Introduction to Programming, Movement with Motors, Basic Autonomous Roaming with Reflectance Sensors
 
 ###Lab: Move the Robot, Turn the Robot, Speed Control, Motor Control with Libraries & APIs (15min)
-####_**Objective: Students load and manipulate a simple program that moves the Robot forward, reverse and turns left and right.**_
+####_**Objective: Students load and manipulate a simple program that moves the Robot forward, reverse, left and right.**_
 **Activity:** Students follow along with Instructor to adjust speed and turning behavior in the movement program<br>
 
 ###Lecture: Introduction to Programming with C and Python (30min)
