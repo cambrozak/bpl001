@@ -18,9 +18,9 @@
 ###Source Code###
 
 ###Reference###
-[C++ Language Reference for Arduino](https://www.arduino.cc/en/Reference/HomePage)
-[75:1 Micro Metal Gearmotor](https://www.pololu.com/product/2215/pictures)
-[Zumo Front Sensor Array](https://www.pololu.com/docs/0J63/all#3.5)
+[C++ Language Reference for Arduino](https://www.arduino.cc/en/Reference/HomePage)<br>
+[75:1 Micro Metal Gearmotor](https://www.pololu.com/product/2215/pictures)<br>
+[Zumo Front Sensor Array](https://www.pololu.com/docs/0J63/all#3.5)<br>
 [Sharp GP2S60](https://www.pololu.com/file/download/GP2S60_DS.pdf?file_id=0J683)
 
 ###Equipment###
