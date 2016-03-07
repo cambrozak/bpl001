@@ -103,7 +103,7 @@ by combining the first lab with previous learning.
 **Lecture:** Intro to Electricity: Electrons, Current, Voltage, Resistance, Series, Parallel, Ground<br>
 **Lab:** Build a Reference Circuit using a battery, LED, Switch and Ground.  Debug the three types of circuit failures: Short Circuits, Grounded Circuits, Open Circuits 
 
-###_Session Five: Advanced Roaming_
+###_Session Five: Advanced Autonomous Roaming_
 
 **Lab:**  Detect collisions with Accelerometer, Detect objects in space with Proximity Sensors.<br>
 **Lecture:**  Why Accelerometers and proximity sensors work.<br>
