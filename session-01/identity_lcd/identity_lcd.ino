@@ -1,6 +1,8 @@
-/* This example demonstrates basic use of the Zumo 32U4 LCD.
-It prints the word "hi" on the first line of the LCD and
-prints the number 1234 on the second line. */
+/***
+  Obtain robot identity data from EEPROM and display on LCD
+  Written by Carlos Ambrozak 2016
+  Released under Creative Commmons licence.
+***/
 #include <EEPROM.h>
 #include <Wire.h>
 #include <Zumo32U4.h>
