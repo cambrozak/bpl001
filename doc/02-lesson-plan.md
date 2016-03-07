@@ -31,6 +31,7 @@
 * Laptop for each student with Arduino IDE
 * Motor, Line Sensor libraries, Source code
 * Zumo Robot, one for each student pair
+* Batteries
 * Micro USB Serial Cable for each Robot
 * Black Vynil Surface
 * White Tape for edge boundaries
