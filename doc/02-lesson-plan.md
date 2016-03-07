@@ -16,7 +16,7 @@
 **Activity:** Instructor and Students tune edge detection behavior with If/Else and Switch logic expressions
 
 ###Source Code###
-[https://github.com/cambrozak/bpl001/tree/master/session-02](https://github.com/cambrozak/bpl001/tree/master/session-02)
+[https://github.com/cambrozak/bpl001/tree/master/session-02](https://github.com/cambrozak/bpl001/tree/master/session-02)<br>
 [https://github.com/pololu/zumo-32u4-arduino-library](https://github.com/pololu/zumo-32u4-arduino-library)
 
 ###Reference###
