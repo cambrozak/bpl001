@@ -83,16 +83,17 @@ by combining the first lab with previous learning.
 
 **Lecture:** Robots Declassified -- What's a Robot?<br>
 **Lab:** First Program -- Name the Robot and display on LCD
+**Lab:** LCD Animation with custom character sprites
 
-###_Session Two: Introduction to Programming, Movement with Motors, Positioning with Compass and Gyroscope_
+###_Session Two: Introduction to Programming, Movement with Motors_
 
-**Lab:** Move the Robot, Edge Detection, Program motor control using libraries & APIs<br>
+**Lab:** Move the Robot, Turn the Robot, Speed control, Program motor control using Libraries & APIs<br>
 **Lecture:** Introduction to Programming with C and Python<br>
-**Lab:** Turn the Robot, Speed control, Positioning with the Gyro and Compass
+**Lab:** Edge Detection, IR LED/Phototransistor input processing, Basic Autonomous Roaming
 
-###_Session Three: Line Following, More Programming, The Art of Debugging_
+###_Session Three: Positioning with Compass and Gyroscope, More Programming, The Art of Debugging_
 
-**Lab:** Line following, IR LED/Phototransistor input processing<br>
+**Lab:** Improved Autonomous Roaming with Compass and Gyro Positioning
 **Lecture:** Scope, Functions, The Art of Debugging<br>
 **Lab:** Debugging in Practice, IDE, Simulator for Arduino
 
@@ -102,9 +103,9 @@ by combining the first lab with previous learning.
 **Lecture:** Intro to Electricity: Electrons, Current, Voltage, Resistance, Series, Parallel, Ground<br>
 **Lab:** Build a Reference Circuit using a battery, LED, Switch and Ground.  Debug the three types of circuit failures: Short Circuits, Grounded Circuits, Open Circuits 
 
-###_Session Five: Roaming_
+###_Session Five: Advanced Roaming_
 
-**Lab:**  Detect collisions with accelerometer, Detect objects in space with proximity sensors.<br>
+**Lab:**  Detect collisions with Accelerometer, Detect objects in space with Proximity Sensors.<br>
 **Lecture:**  Why Accelerometers and proximity sensors work.<br>
 **Lab:** Advanced Roaming, navigating terrain, avoiding moving obstacles.
 
