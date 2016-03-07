@@ -10,8 +10,7 @@
 **Activity:** Students identify invalid Expressions and invalid Syntax in a short exercise with the IDE
 
 ###Lab: Edge Detection, IR LED/Phototransistor input processing, Basic Autonomous Roaming (45min)
-####_**Objective: Students use Variables, If/Else Logic, Switch Statements and Loops to process 
-reflectance sensor input and implement basic roaming behavior**_
+####_**Objective: Students use Variables, If/Else Logic, Switch Statements and Loops to process reflectance sensor input and implement basic roaming behavior**_
 **Activity:** Instructor and Students use a For Loop to distinguish black/white edges with Reflectance Sensor inputs<br>
 **Activity:** Instructor and Students design roaming behavior with a Flow Chart and implement the design in the edge explorer program<br>
 **Activity:** Instructor and Students tune edge detection behavior with If/Else and Switch logic expressions
