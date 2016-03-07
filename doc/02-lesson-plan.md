@@ -16,6 +16,7 @@
 **Activity:** Instructor and Students tune edge detection behavior with If/Else and Switch logic expressions
 
 ###Source Code###
+[https://github.com/cambrozak/bpl001/tree/master/session-02](https://github.com/cambrozak/bpl001/tree/master/session-02)
 
 ###Reference###
 [C++ Language Reference for Arduino](https://www.arduino.cc/en/Reference/HomePage)<br>
