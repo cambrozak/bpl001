@@ -34,7 +34,7 @@
 * Zumo Robot, one for each student pair
 * Batteries
 * Micro USB Serial Cable for each Robot
-* Black Vynil Surface
+* Black Vinyl Surface
 * White Tape for edge boundaries
 * Foam barrier pads to prevent edge overflow
 
