@@ -21,7 +21,7 @@
 [https://github.com/pololu/zumo-32u4-arduino-library](https://github.com/pololu/zumo-32u4-arduino-library)
 
 ###Reference###
-[LSM303D Accelerometer Datasheet](https://www.pololu.com/file/download/LSM303D.pdf?file_id=0J703)
+[LSM303D Accelerometer Datasheet](https://www.pololu.com/file/download/LSM303D.pdf?file_id=0J703)<br>
 [C++ Language Reference for Arduino](https://www.arduino.cc/en/Reference/HomePage)<br>
 
 ###Equipment###
