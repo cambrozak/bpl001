@@ -7,7 +7,7 @@
 ###Lecture: (15min)
 ####_**Objective: Observe Accelerometer internals, Understand Micro Electro Mechanical Systems**_
 **Activity:** Video: [MEMS](https://youtu.be/i2U49usFo10)<br>
-**Activity:** Video: [Mass Spring Model, How MEMS are made](https://youtu.be/i2U49usFo10)<br>
+**Activity:** Video: [Accelerometer Mass Spring Model, How MEMS are made](https://youtu.be/i2U49usFo10)<br>
 **Activity:** Video: [Car Collision Airbag Deployment](https://youtu.be/ObXspXB9sJI)
 
 ###Lab: (60min)
