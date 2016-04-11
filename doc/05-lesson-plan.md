@@ -1,4 +1,4 @@
-#Session Five: Advanced Autonomous Roaming: Collision Detection
+#Session Five: Advanced Autonomous Roaming with Collision Detection
 
 ###Lab: Acelerometer Sensor Sampling (15min)
 ####_**Objective: Students get familiar with acceleromters and API for sampling G-Force measurements**_
