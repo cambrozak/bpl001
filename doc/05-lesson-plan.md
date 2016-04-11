@@ -16,7 +16,7 @@
 **Activity:** Students and Instructor integrate motor control code and deploy robots to the test field
 
 ###Source Code###
-[https://github.com/cambrozak/bpl001/tree/master/session-02](https://github.com/cambrozak/bpl001/tree/master/session-05)<br>
+[https://github.com/cambrozak/bpl001/tree/master/session-05](https://github.com/cambrozak/bpl001/tree/master/session-05)<br>
 [https://github.com/pololu/lsm303-arduino](https://github.com/pololu/lsm303-arduino#library-reference)<br>
 [https://github.com/pololu/zumo-32u4-arduino-library](https://github.com/pololu/zumo-32u4-arduino-library)
 
