@@ -23,6 +23,7 @@
 ###Reference###
 [LSM303D Accelerometer Datasheet](https://www.pololu.com/file/download/LSM303D.pdf?file_id=0J703)<br>
 [C++ Language Reference for Arduino](https://www.arduino.cc/en/Reference/HomePage)<br>
+[Root-Mean-Square](https://www.youtube.com/watch?v=ziUPFOmyB5U)
 
 ###Equipment###
 * Laptop for Instructor with Arduino IDE and internet access
