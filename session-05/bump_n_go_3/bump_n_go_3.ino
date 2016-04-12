@@ -95,7 +95,7 @@ boolean timeWindowElapsed() {
   return ((millis() - sampleWindowStartTime) > SAMPLE_WINDOW_TIME);
 }
 
-// This function detecs a collision by comparing the
+// This function detects a collision by comparing the
 // difference between the average at the beginning of the time window
 // to the average calculated right now.
 // The abs function takes absolute value of the difference to insure
@@ -143,7 +143,7 @@ void resetXY() {
 }
 
 // Minor addition to this function to reset time window
-// and reset starting average values at the end of each windowl
+// and reset starting average values at the end of each time window
 void collectSamples() {
   lsm303.readAcc();
 
@@ -165,6 +165,8 @@ void collectSamples() {
   index++;
   index = (index < SAMPLE_SIZE) ? index : 0;
 
+  // starting average values to current average values
+  // at the end of each time window
   if (timeWindowElapsed()) {
     lastXAverage = xAverage;
     lastYAverage = yAverage;
