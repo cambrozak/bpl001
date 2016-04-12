@@ -48,14 +48,14 @@ long lastYAverage;
 
 // collision detected if the difference between the averages over the time window
 // is greater than this threshold value.
-// This is a Magic Numbe obtained by trial-and-error, observing the robot in the field!
+// This is a Magic Number obtained by trial-and-error, observing the robot in the field!
 const long THRESHOLD = 2400;
 
 // this variable holds the current window start time
 unsigned long sampleWindowStartTime;
 
 // this value is the length of the time window
-// This is a Magic Numbe obtained by trial-and-error, observing the robot in the field!
+// This is a Magic Number obtained by trial-and-error, observing the robot in the field!
 const unsigned long SAMPLE_WINDOW_TIME = 900;
 
 // SETUP
