@@ -64,10 +64,10 @@ Write this reminder on the board at the beginning of each session:
 **Install PixyMon vision system monitor client**
 [http://www.cmucam.org/projects/cmucam5/wiki/Installing_PixyMon_on_Windows_Vista_7_or_8](http://www.cmucam.org/projects/cmucam5/wiki/Installing_PixyMon_on_Windows_Vista_7_or_8)
 
-**Install Pixy Arduino Library**
+**Install Pixy Arduino Library**<br>
 [http://www.cmucam.org/projects/cmucam5/wiki/Latest_release](http://www.cmucam.org/projects/cmucam5/wiki/Latest_release)<br>
 
-**Set I2C Interface**
+**Set I2C Interface**<br>
 Select I2C in the Interface section of Preferences<br>
 
 
