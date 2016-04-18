@@ -1,7 +1,7 @@
 #Session Six: Servo Mechanical Control
 
 ###Lab: Pixy I2C Interface and Servo API (15min)
-####_**Objective: Interface Zumo board with the Pixy board via I2C and the Pixy API, Explore servo articulation range**_
+####_**Objective: Interface Zumo board with the Pixy board via I2C and the Pixy API, Explore servo arm articulation range**_
 **Activity:** Students and Instructor write and run code to control the main LED on the Pixy board from Zumo board to verify that I2C communication between the boards is working properly.<br>
 **Activity:** Students and Instructor write and run code to move the servo arm through it's maximum range of motion.
 
