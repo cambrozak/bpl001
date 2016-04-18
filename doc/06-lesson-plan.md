@@ -12,8 +12,8 @@
 **Activity:** Video: [Pulse Width Modulation](https://youtu.be/YmPziPfaByw)
 
 ###Lab: (60min)
-####_**Objective: Move the servo armo continously**_
-**Activity:** Students and Instructor implement a scan algorthm to provide camera coverage over the full range of motion<br>
+####_**Objective: Move the servo arm continously**_
+**Activity:** Students and Instructor implement a scan algorithm to provide camera coverage over the full range of arm motion<br>
 
 ###Source Code###
 [Pixy Arduino Library and API](http://www.cmucam.org/projects/cmucam5/wiki/Arduino_API)
