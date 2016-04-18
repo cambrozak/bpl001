@@ -16,7 +16,7 @@
 **Activity:** Students and Instructor implement a scan algorithm to provide camera coverage over the full range of arm motion<br>
 
 ###Source Code###
-[Pixy Arduino Library and API](http://www.cmucam.org/projects/cmucam5/wiki/Arduino_API)
+[Pixy Arduino Library and API](http://www.cmucam.org/projects/cmucam5/wiki/Arduino_API)<br>
 [https://github.com/cambrozak/bpl001/tree/master/session-06](https://github.com/cambrozak/bpl001/tree/master/session-06)<br>
 
 ###Reference###
