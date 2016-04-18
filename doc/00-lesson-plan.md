@@ -59,4 +59,16 @@ Write this reminder on the board at the beginning of each session:
 
 **Tools > Port > COMX**
 
+###Pixy Setup
+
+**Install PixyMon vision system monitor client**
+[http://www.cmucam.org/projects/cmucam5/wiki/Installing_PixyMon_on_Windows_Vista_7_or_8](http://www.cmucam.org/projects/cmucam5/wiki/Installing_PixyMon_on_Windows_Vista_7_or_8)
+
+**Install Pixy Arduino Library
+[http://www.cmucam.org/projects/cmucam5/wiki/Latest_release](http://www.cmucam.org/projects/cmucam5/wiki/Latest_release)<br>
+
+**Set I2C Interface**
+Select I2C in the Interface section of Preferences<br>
+
+
 <sup><sub>*BPL001 Introduction to Robotics by Carlos Ambrozak* is licensed under a Creative Commons Attribution 4.0 International License.</sub></sup>
