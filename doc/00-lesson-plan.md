@@ -59,7 +59,7 @@ Write this reminder on the board at the beginning of each session:
 
 **Tools > Port > COMX**
 
-###Pixy Setup
+##Pixy Setup
 
 **Install PixyMon vision system monitor client**
 [http://www.cmucam.org/projects/cmucam5/wiki/Installing_PixyMon_on_Windows_Vista_7_or_8](http://www.cmucam.org/projects/cmucam5/wiki/Installing_PixyMon_on_Windows_Vista_7_or_8)
