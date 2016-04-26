@@ -59,6 +59,22 @@ Write this reminder on the board at the beginning of each session:
 
 **Tools > Port > COMX**
 
+## Fixing Port Dropoff
+
+The IDE can fail to detect the port connection under certain conditions.  The fix for this is to use the Reset button to put the Zumo in bootloader mode during upload.  The IDE will detect the port in bootloader mode.  Follow these steps exactly:
+
+1. Connect the device to your computer via USB.
+2. In the “Tools” menu, open the “Board” sub-menu, and select “Pololu A-Star 32U4”.
+3. In the “Tools” menu, open the “Port” sub-menu, and check to see if any ports are selected. If the “Port” menu is grayed out or no ports in it are selected, that is good, and you can skip to step 6.
+4. Press the Reset button twice to get the board into bootloader mode.  While the board is in bootloader mode, quickly select the new serial port that corresponds to the bootloader in the “Port” menu in the IDE.
+5. After 8 seconds, the bootloader will exit and attempt to run the sketch again. Wait for the bootloader to exit. Verify that either the “Port” menu is grayed out or no ports in it are selected.
+6. Click the Upload button. The Arduino IDE will compile your sketch and start uploading it.
+7. As soon as the large status bar near the bottom of the IDE says “Uploading…”, press reset the board twice to get into bootloader mode.
+
+The Arduino IDE will stay in the uploading phase for 10 seconds, waiting for a new serial port to appear. Once the serial port of the bootloader appears, the Arduino IDE will connect to it and send programming commands.
+
+More details are [here](https://www.pololu.com/docs/0J63/9.1)
+
 ##Pixy Setup
 
 **Install PixyMon vision system monitor client**
