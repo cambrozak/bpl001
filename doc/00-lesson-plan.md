@@ -57,7 +57,7 @@ Write this reminder on the board at the beginning of each session:
 
 **Tools > Board > Pololu A-Star 32U4**
 
-**Tools > Port > COMX**
+**Tools > Port > COMX Pololu A-Star 32U4**
 
 ## Fixing Port Dropoff
 
