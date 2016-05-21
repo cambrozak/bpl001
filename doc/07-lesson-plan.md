@@ -17,7 +17,7 @@
 **Activity:** Students and Instructor write code to integrate motor control with the servo feedback code.<br>
 
 ###Source Code###
-[https://github.com/cambrozak/bpl001/tree/master/session-06](https://github.com/cambrozak/bpl001/tree/master/session-07)<br>
+[https://github.com/cambrozak/bpl001/tree/master/session-07](https://github.com/cambrozak/bpl001/tree/master/session-07)<br>
 
 ###Reference###
 [Pixy Arduino Library and API](http://www.cmucam.org/projects/cmucam5/wiki/Arduino_API)<br>
