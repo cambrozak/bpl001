@@ -7,7 +7,7 @@
 #define MLEFT 2
 #define MRIGHT 3
 
-#define MMAX_SPEED 200
+#define MMAX_SPEED 180
 
 #define REVERSE_TIME 500
 #define ACCELERATE_TIME 500
