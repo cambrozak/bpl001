@@ -28,7 +28,7 @@ generators and we discussed how Magnetic generators are the primary means
 of moving electrons into your house; be they turned by nuclear, coal, wind,
 hydro, hand-crank (like the one in class) or even donkeys!
 
-The Marble Run metaphor provided a simple example of what's happening
+The Marble Run model provided a simple example of what's happening
 physically when electrons move and set the foundation for understanding the
 concept of [Voltage as the force that kicks electrons causing movement which is Current](http://i.imgur.com/p2dDviT.jpg).  This is the foundation of
 Electronics and the lifeblood of all robots.
