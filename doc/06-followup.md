@@ -11,8 +11,7 @@ manipulate the servo arm manually by pressing buttons and you were able to
 adjust the movement rate per button push.
 
 The lecture dived into [servo internals](https://youtu.be/-XSXfqd1N58) and
-you could see that a servo consists of a Motor + Gearbox + Control Circuit
-+ Feedback Unit, a Potentiometer](https://www.youtube.com/watch?v=F9U29RkqHXA)
+you could see that a servo consists of a Motor + Gearbox + Control Circuit + Feedback Unit, a Potentiometer](https://www.youtube.com/watch?v=F9U29RkqHXA)
 in this case.  We talked briefly about how [Pulse Width Modulation](https://youtu.be/7VR3bYoFH88) is used along with the gearbox to maintain a
 servo's position and generate torque to work against counter forces and
 lift stuff.
