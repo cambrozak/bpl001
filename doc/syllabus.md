@@ -66,7 +66,7 @@ connect components to the Robot and observe resulting physical behavior.
 The sesssion does not proceed until every Robot is performing as expected.
 
 A short lecture explains how and why the lab exercise worked and answers open questions.
-The lecture also relates the lab exercise to examples in the real world.
+The lecture also relates the lab exercise to applications in the real world.
 
 A final lab exercise challenges students to implement their own original ideas
 by combining the first lab with previous learning.
