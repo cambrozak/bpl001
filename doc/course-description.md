@@ -1,6 +1,6 @@
-#BPL001 Introduction to Robotics
+# BPL001 Introduction to Robotics
 
-##Course Description
+## Course Description
 
 The field of Robotics is at a fascinating and exciting point in its evolution.
 Robots are no longer confined to the realms of industry and research,
@@ -21,7 +21,7 @@ proximity sensing, audio & lcd text output, image sensing and servo controlled a
 Short lectures connect the laboratory exercises 
 to current state of the art happenings across the field of Robotics and beyond.
 
-##Prerequisites
+## Prerequisites
 
 None!  This class is for motivated beginners.
 
