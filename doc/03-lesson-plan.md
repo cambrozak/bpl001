@@ -1,24 +1,24 @@
-#Session Three: Line Following, More Programming, The Art of Debugging
+# Session Three: Line Following, More Programming, The Art of Debugging
 
-###Lab: Line Following (15min)
-####_**Objective: Students load and manipulate a simple program that uses Phototransistor inputs to follow lines**_
+### Lab: Line Following (15min)
+#### _**Objective: Students load and manipulate a simple program that uses Phototransistor inputs to follow lines**_
 **Activity:** Students follow along with Instructor to add basic maze solving behavior to the line following program using the Wall Follower Algorithm<br>
 
-###Lecture: More Programming Concepts with C and Python (15min)
-####_**Objective: Students understand fundamental programming concepts: Scope, Functions**_
+### Lecture: More Programming Concepts with C and Python (15min)
+#### _**Objective: Students understand fundamental programming concepts: Scope, Functions**_
 **Activity:** Instructor explains Scope, Functions and compare/contrasts live examples with the C and Python programming languages<br>
 **Activity:** Students identify Scope levels in a short exercise with the IDE<br>
 **Activity:** Students and Instructor redesign the Wall Follower implementation from the first lab into a set of Functions
 
 
-###Lecture: The Art of Debugging (15min)
-####_**Objective: Students empowered with Debugging Heuristics and view Debugging as a Learning Opportunity**_
+### Lecture: The Art of Debugging (15min)
+#### _**Objective: Students empowered with Debugging Heuristics and view Debugging as a Learning Opportunity**_
 **Activity:** Instructor presents an attitude towards Debugging as a Learning Opportunity vs the common DABDA Response<br>
 **Activity:** Instructor and Students discuss complementary Heuristics: Murphy's Law, Sherlock's Law<br>
 **Activity:** Instructor and Students apply Murphy's and Sherlock's Laws to the Robot platform and extrapolate a General Debug Checklist
 
-###Lab: Debugging in Practice (45min)
-####_**Objective: Students extend the General Debug Checklist by troubleshooting hidden bugs the Line Following program from the first lab with the IDE and Simulator**_
+### Lab: Debugging in Practice (45min)
+#### _**Objective: Students extend the General Debug Checklist by troubleshooting hidden bugs the Line Following program from the first lab with the IDE and Simulator**_
 
 General Debug Checklist (completed version)
 
@@ -42,7 +42,7 @@ General Debug Checklist (completed version)
 - [ ] Short Circuits, Open Circuits, Grounded Circuits (covered in next class)
 - [ ] Multimeter, Oscilloscope, Logic Analyzer (mentioned but not covered)
 
-###Equipment###
+### Equipment
 * Laptop for Instructor with Arduino IDE and internet access
 * Audio, Video, Projector and necessary laptop cables
 * Markerboard
